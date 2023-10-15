@@ -17,7 +17,9 @@ Pending projects:
 (insert some pictures here?)
 
 **Summary about the project:**  
-The project task is to create a generative design in Rhinoceros and Grasshopper using techniques developed aiming to produce something that cannot be recreated using conventional media. The theme of this assignment is “Beyond Human Aptitude”.
+The project task is to create a generative design in Rhinoceros and Grasshopper using techniques developed aiming to produce something that cannot be recreated using conventional media. The theme of this assignment is “Beyond Human Aptitude”. 
+
+In the '1. Generative Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow.
 
 *Programming Languages used:*   
 nil
@@ -33,7 +35,9 @@ nil
 </p>
 
 **Summary about the project:**  
-The project task is to create a parametric design model using the techniques developed. Produce a scalar field family of surfaces and present variation matrices mapping interactions between parameters. Categorize instances along qualitative and quantitative dimensions and after selecting your favorite option, use 3D printing to produce a physical prototype. The theme of this assignment is “Mapping Variations”.
+The project task is to create a parametric design model using the techniques developed. Produce a scalar field family of surfaces and present variation matrices mapping interactions between parameters. Categorize instances along qualitative and quantitative dimensions and after selecting your favorite option, use 3D printing to produce a physical prototype. The theme of this assignment is “Mapping Variations”. 
+
+In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow.
 
 *Programming Languages used:*  
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
@@ -47,7 +51,9 @@ The project task is to create a parametric design model using the techniques dev
 (insert some pictures here?)
 
 **Summary about the project:**  
-The project task is to create a supporting technology project to support a Karaoke Event organised by the school student leadership committee. The technology project I have decided to create is a Web Application using Streamlit (Python Framework) where users can submit their name and song choice via a Streamlit (Python) website link, which will then be added into a database, where another Streamlit (Python) website will draw the data from to display the song queue on a projected screen to show whoever is the next singer and their song choice during the Karaoke Event.
+The project task is to create a supporting technology project to support a Karaoke Event organised by the school student leadership committee. The technology project I have decided to create is a Web Application using Streamlit (Python Framework) where users can submit their name and song choice via a Streamlit (Python) website link, which will then be added into a database, where another Streamlit (Python) website will draw the data from to display the song queue on a projected screen to show whoever is the next singer and their song choice during the Karaoke Event. 
+
+In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folder, there are 2 folders, consisting of my learning journey of the Streamlit (Python Framework) (Youtube playlist where I learnt the Streamlit (Python Framework) from: https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW by [Nileg Production](https://www.youtube.com/@nilegproduction) (only up till the 14th video in the playlist)) and the Streamlit (Python Framework) Web Application Project itself.
 
 *Programming Languages used:*  
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
