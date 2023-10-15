@@ -11,7 +11,9 @@ Pending projects:
 + can put SHARP project once its done
 + streamlit web app once its done
 
-### [1. Generative Design Project with Rhinoceros and Grasshopper](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper) <a name = "generative"></a>
+<br>
+
+## [1. Generative Design Project with Rhinoceros and Grasshopper](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper) <a name = "generative"></a>
 (insert some pictures here?)
 
 **Programming Languages/Frameworks used:**
