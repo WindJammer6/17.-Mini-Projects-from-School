@@ -19,7 +19,7 @@ Pending projects:
 **Summary about the project:**  
 The project task is to create a generative design in Rhinoceros and Grasshopper using techniques developed aiming to produce something that cannot be recreated using conventional media. The theme of this assignment is “Beyond Human Aptitude”. 
 
-In the '1. Generative Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow.
+In the '1. Generative Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow. Used Photoshop to create the GIF animations to capture the physical changes in the 3D model as a parameter in the Grasshopper code is changed.
 
 *Programming Languages used:*   
 nil
@@ -37,7 +37,7 @@ nil
 **Summary about the project:**  
 The project task is to create a parametric design model using the techniques developed. Produce a scalar field family of surfaces and present variation matrices mapping interactions between parameters. Categorize instances along qualitative and quantitative dimensions and after selecting your favorite option, use 3D printing to produce a physical prototype. The theme of this assignment is “Mapping Variations”. 
 
-In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow.
+In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow. Used Photoshop to create the GIF animations to capture the physical changes in the 3D model as a parameter in the Grasshopper code is changed.
 
 *Programming Languages used:*  
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
