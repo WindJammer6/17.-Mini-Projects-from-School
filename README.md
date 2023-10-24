@@ -9,7 +9,6 @@ Here are some of my school projects:
 
 Pending projects:
 + can put SHARP project once its done
-+ streamlit web app once its done
 
 <br>
 
@@ -48,7 +47,12 @@ In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, th
 <br>
 
 ## [3. Streamlit (Python) Web Application Project for a Karaoke Event](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event) <a name = "streamlitkaraoke"></a>
-(insert some pictures here?)
+<p align="center"> 
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Streamlit%20(Python)%20Karaoke%20Singer%20Registration%20web%20application.jpg"  width="250" height="250">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Streamlit%20(Python)%20Song%20Queue%20web%20application.jpg"  width="300" height="250">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Firebase%20Realtime%20Database.jpg"  width="450" height="250">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20CSV%20file%20Database.jpg"  width="350" height="250">
+</p>
 
 **Summary about the project:**  
 The project task is to create a supporting technology project to support a Karaoke Event organised by the school student leadership committee. The technology project I have decided to create is a Web Application using Streamlit (Python Framework) where users can submit their name and song choice via a Streamlit (Python) website link, which will then be added into a database, where another Streamlit (Python) website will draw the data from to display the song queue on a projected screen to show whoever is the next singer and their song choice during the Karaoke Event. 
