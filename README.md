@@ -47,7 +47,7 @@ In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, th
 
 <br>
 
-## [3. Streamlit (Python) Web Application Project for a Karaoke Event](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/3.%20Streamlit%20(Python)%20Web%20Application%20Project%20for%20a%20Karaoke%20Event) <a name = "streamlitkaraoke"></a>
+## [3. Streamlit (Python) Web Application Project for a Karaoke Event](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event) <a name = "streamlitkaraoke"></a>
 (insert some pictures here?)
 
 **Summary about the project:**  
@@ -59,4 +59,4 @@ In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folde
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 *Frameworks used:*  
-<img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="50" height="50">
+<img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
