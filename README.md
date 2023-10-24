@@ -64,3 +64,35 @@ In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folde
 
 *Frameworks used:*  
 <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+
+Learning sources:
+- Firebase with Python Full Course Youtube video: https://www.youtube.com/watch?v=s-Ga8c3toVY&t=336s (Code First 
+  with Hala)
+- ChatGPT: https://chat.openai.com/
+- #- https://docs.streamlit.io/library/api-reference/session-state (Streamlit (Python)'s official documentation on
+#the 'st.session_state' function)
+#- https://www.youtube.com/watch?v=92jUAXBmZyU) (Youtube video labekled 'Session State Basics' by Streamlit Youtube)
+#(Link: https://github.com/kmcgrady/streamlit-autorefresh#how-does-this-component-help (kmcgrady, Ken McGrady))
+#https://console.firebase.google.com/u/0/
+
+The direct firebase database link: https://console.firebase.google.com/u/0/project/karaokeeventproject/database/karaokeeventproject-default-rtdb/data 
+
+Imrpovements for the project:
+#DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE (maybe can say how many people left before you?)
+
+
+#Only issue is how to automate when to remove a person from the queue when their song is done? (How do dequeue is easy,
+#problem is just when to do it)
+
+#DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+ 
+#To be improved areas:
+#- maybe can say how many people left before the user in the queue
+#- automatically dequeue the top singer in the queue after they have finished their song during the Karaoke Evenet
+
+
+#Only issue is how to automate when to remove a person from the queue when their song is done? (How do dequeue is easy,
+#problem is just when to do it)
+
+You Xiang senior, GitHub app
+
