@@ -30,12 +30,15 @@ nil
 
 ## [2. Parametric Design Project with Rhinoceros and Grasshopper](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper) <a name = "parametric"></a>
 <p align="center"> 
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Parametric%20Design%20Assignment%20of%20the%203D%20printed%203D%20model.jpg"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Parametric%20Design%20Assignment%20of%20the%203D%20model%20in%20Rhino.jpg"  width="350" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Parametric%20Design%20Assignment%20of%20the%203D%20model's%20Grasshopper%20code.png"  width="450" height="200">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/GIF%20of%20Parametric%20Design%20Assignment%20of%20the%203D%20model%20as%20parameter%20k%20varies.gif"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Parametric%20Design%20Assignment%20of%20the%203D%20model%20in%203D%20printing%20software%20(Ulitmaker%20Cura).png"  width="380" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Parametric%20Design%20Assignment%20of%20the%203D%20printed%203D%20model.jpg"  width="250" height="200">
 </p>
 
 **Summary about the project:**  
-The project task is to create a parametric design model using the techniques developed. Produce a scalar field family of surfaces and present variation matrices mapping interactions between parameters. Categorize instances along qualitative and quantitative dimensions and after selecting your favorite option, use 3D printing to produce a physical prototype. The theme of this assignment is “Mapping Variations”. 
+The project task is to create a parametric design model using the techniques developed. Produce a scalar field family of surfaces and present variation matrices mapping interactions between parameters. Categorize instances along qualitative and quantitative dimensions and after selecting your favorite option, use 3D printing to produce a physical prototype using a 3D printing software, Ultimaker Cura. The theme of this assignment is “Mapping Variations”. 
 
 In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow. Used Photoshop to create the GIF animations in the PowerPoint slides to capture the physical changes in the 3D model as a parameter in the Grasshopper code is changed.
 
