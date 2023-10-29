@@ -119,6 +119,10 @@ You Xiang senior, GitHub app
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case3_Chaos_figure.png"  width="250" height="200">
 </p>
 
+The first Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=28, b=8/3 and represents Chaos in the Lorenz Equation solutions.  
+The second Lorenz Equation graph has the initial conditions of x=-25, y=-10, z=-13.9, and parameters of ∂=10, r=21, b=8/3 and represents Transient Chaos oin the Lorenz Equation solutions.  
+The third Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=350, b=8/3 and represents no Chaos in the Lorenz Equation solutions.  
+
 From wikipedia: "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics focused on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions, and were once thought to have completely random states of disorder and irregularities." 
 
 The project task is to solve the Lorenz Equation (a Chaotic system/equation) as given in the question by drawing graphs with varying initial conditions and parameters (∂, r and b) and plotting y against t for the graphs.
