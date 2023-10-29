@@ -6,6 +6,7 @@ Here are some of my school projects:
 1. [Generative Design Project with Rhinoceros and Grasshopper](#generative)
 2. [Parametric Design Project with Rhinoceros and Grasshopper](#parametric)
 3. [Streamlit (Python) Web Application Project for a Karaoke Event](#streamlitkaraoke)
+4. [Sketching Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 
 Pending projects:
 + can put SHARP project once its done
@@ -92,15 +93,40 @@ Imrpovements for the project:
 #Only issue is how to automate when to remove a person from the queue when their song is done? (How do dequeue is easy,
 #problem is just when to do it)
 
+#Only issue is how to automate when to remove a person from the queue when their song is done? (How do dequeue is easy,
+#problem is just when to do it)
+
+You Xiang senior, GitHub app
+
+
 #DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
  
 #To be improved areas:
 #- maybe can say how many people left before the user in the queue
 #- automatically dequeue the top singer in the queue after they have finished their song during the Karaoke Evenet
 
+<br>
 
-#Only issue is how to automate when to remove a person from the queue when their song is done? (How do dequeue is easy,
-#problem is just when to do it)
+## [4. Sketching Graphs from the Lorenz Equation (Chaos Theory)](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)) <a name = "chaostheory"></a>
+**Summary about the project:**  
+<p align="center"> 
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20the%20Question%20to%20Sketch%20the%20Graphs%20from%20the%20Lorenz%20Equation%20(1).png"  width="350" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20the%20Question%20to%20Sketch%20the%20Graphs%20from%20the%20Lorenz%20Equation%20(2).png"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case1_Chaos_figure.png"  width="250" height="200">
+</p>
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case2_Chaos_figure.png"  width="250" height="200">
+</p>
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case3_Chaos_figure.png"  width="250" height="200">
+</p>
+From wikipedia: "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics focused on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions, and were once thought to have completely random states of disorder and irregularities."
 
-You Xiang senior, GitHub app
+The project task is to sketch graph chaos.
+
+*Programming Languages used:*   
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+*Frameworks used:*  
+nil
+
+
 
