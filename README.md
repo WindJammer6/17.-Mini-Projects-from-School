@@ -118,7 +118,7 @@ You Xiang senior, GitHub app
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case2_Chaos_figure.png"  width="250" height="200">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case3_Chaos_figure.png"  width="250" height="200">
 </p>
-From wikipedia: "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics focused on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions, and were once thought to have completely random states of disorder and irregularities."  
+From wikipedia: "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics focused on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions, and were once thought to have completely random states of disorder and irregularities."      
 
 The project task is to solve the Lorenz Equation (a Chaotic system/equation) as given in the question by drawing graphs with varying initial conditions and parameters (∂, r and b) and plotting a graph of y against t.
 
