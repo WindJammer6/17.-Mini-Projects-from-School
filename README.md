@@ -6,7 +6,7 @@ Here are some of my school projects:
 1. [Generative Design Project with Rhinoceros and Grasshopper](#generative)
 2. [Parametric Design Project with Rhinoceros and Grasshopper](#parametric)
 3. [Streamlit (Python) Web Application Project for a Karaoke Event](#streamlitkaraoke)
-4. [Sketching Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
+4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 
 Pending projects:
 nil
