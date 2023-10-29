@@ -110,17 +110,19 @@ You Xiang senior, GitHub app
 ## [4. Sketching Graphs from the Lorenz Equation (Chaos Theory)](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)) <a name = "chaostheory"></a>
 **Summary about the project:**  
 <p align="center"> 
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20the%20Question%20to%20Sketch%20the%20Graphs%20from%20the%20Lorenz%20Equation%20(1).png"  width="350" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20the%20Question%20to%20Sketch%20the%20Graphs%20from%20the%20Lorenz%20Equation%20(1).png"  width="250" height="200">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20the%20Question%20to%20Sketch%20the%20Graphs%20from%20the%20Lorenz%20Equation%20(2).png"  width="250" height="200">
+</p>
+<p align="center"> 
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case1_Chaos_figure.png"  width="250" height="200">
-</p>
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case2_Chaos_figure.png"  width="250" height="200">
-</p>
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case3_Chaos_figure.png"  width="250" height="200">
 </p>
 From wikipedia: "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics focused on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions, and were once thought to have completely random states of disorder and irregularities."
 
-The project task is to sketch graph chaos.
+The project task is to solve the Lorenz Equation (a Chaotic system/equation) as given in the question by drawing a graph with varying initial conditions and parameters (∂, r and b) and plotting a graph of y against t.
+
+Not much new here, except that I had to learn how to use the 'solve_ivp' function from the 'scipy.integrate' library specifically to be able to plot the set of Ordinary Differential Equations (ODE) of the Lorenz Equation using Matplotlib in Python into a graph (link of Youtube video where I learnt how to use the 'solve_ivp' function from the 'scipy.integrate' library: https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo))
 
 *Programming Languages used:*   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
