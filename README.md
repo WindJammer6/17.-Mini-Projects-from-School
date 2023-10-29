@@ -110,8 +110,8 @@ You Xiang senior, GitHub app
 ## [4. Sketching Graphs from the Lorenz Equation (Chaos Theory)](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)) <a name = "chaostheory"></a>
 **Summary about the project:**  
 <p align="center"> 
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20the%20Question%20to%20Sketch%20the%20Graphs%20from%20the%20Lorenz%20Equation%20(1).png"  width="250" height="200">
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20the%20Question%20to%20Sketch%20the%20Graphs%20from%20the%20Lorenz%20Equation%20(2).png"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20Question%20for%20Sketching%20Graphs%20of%20the%20Lorenz%20Equation%20(Chaos%20Theory)%20(1).png"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20Question%20for%20Sketching%20Graphs%20of%20the%20Lorenz%20Equation%20(Chaos%20Theory)%20(2).png"  width="250" height="200">
 </p>
 <p align="center"> 
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case1_Chaos_figure.png"  width="250" height="200">
