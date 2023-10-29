@@ -16,7 +16,7 @@ Pending projects:
 **Summary about the project:**  
 <p align="center"> 
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Generative%20Design%20Assignment%20of%20the%203D%20model%20in%20Rhino.jpg"  width="350" height="200">
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Generative%20Design%20Assignment%20of%20the%203D%20model's%20Grasshopper%20code.png"  width="450" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Generative%20Design%20Assignment%20of%20the%203D%20model's%20Grasshopper%20code.png"  width="250" height="200">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/GIF%20of%20Generative%20Design%20Assignment%20of%20the%203D%20model%20expanding%20upwards.gif"  width="250" height="200">
 </p>
 The project task is to create a generative design in Rhinoceros and Grasshopper using techniques developed aiming to produce something that cannot be recreated using conventional media. The theme of this assignment is “Beyond Human Aptitude”. 
@@ -55,9 +55,9 @@ In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, th
 
 ## [3. Streamlit (Python) Web Application Project for a Karaoke Event](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event) <a name = "streamlitkaraoke"></a>
 <p align="center"> 
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Streamlit%20(Python)%20Karaoke%20Singer%20Registration%20web%20application.jpg"  width="400" height="250">
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Streamlit%20(Python)%20Song%20Queue%20web%20application.jpg"  width="150" height="250">
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Firebase%20Realtime%20Database.jpg"  width="450" height="250">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Streamlit%20(Python)%20Karaoke%20Singer%20Registration%20web%20application.jpg"  width="350" height="250">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Streamlit%20(Python)%20Song%20Queue%20web%20application.jpg"  width="350" height="250">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Firebase%20Realtime%20Database.jpg"  width="500" height="250">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20CSV%20file%20Database.jpg"  width="400" height="250">
 </p>
 
