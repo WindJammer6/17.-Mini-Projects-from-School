@@ -120,7 +120,7 @@ You Xiang senior, GitHub app
 </p>
 
 + The first Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=28, b=8/3 and represents Chaos in the Lorenz Equation solutions.  
-+ The second Lorenz Equation graph has the initial conditions of x=-25, y=-10, z=-13.9, and parameters of ∂=10, r=21, b=8/3 and represents Transient Chaos oin the Lorenz Equation solutions.  
++ The second Lorenz Equation graph has the initial conditions of x=-25, y=-10, z=-13.9, and parameters of ∂=10, r=21, b=8/3 and represents Transient Chaos in the Lorenz Equation solutions.  
 + The third Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=350, b=8/3 and represents no Chaos in the Lorenz Equation solutions.  
 
 From wikipedia: "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics focused on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions, and were once thought to have completely random states of disorder and irregularities." 
