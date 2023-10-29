@@ -31,7 +31,7 @@ nil
 ## [2. Parametric Design Project with Rhinoceros and Grasshopper](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper) <a name = "parametric"></a>
 <p align="center"> 
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Parametric%20Design%20Assignment%20of%20the%203D%20printed%203D%20model.jpg"  width="250" height="200">
-  ![Semantic description of image](https://github.com/WindJammer6/17.-Projects-from-School/blob/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/GIF%20of%20Parametric%20Design%20Assignment%20of%20the%203D%20model%20as%20parameter%20k%20varies.gif)
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/2.%20Parametric%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/GIF%20of%20Parametric%20Design%20Assignment%20of%20the%203D%20model%20as%20parameter%20k%20varies.gif"  width="250" height="200">
 </p>
 
 **Summary about the project:**  
