@@ -9,7 +9,7 @@ Here are some of my school projects:
 4. [Sketching Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 
 Pending projects:
-+ can put SHARP project once its done
+nil
 
 <br>
 
