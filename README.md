@@ -5,7 +5,7 @@ A compilation of school projects I've done at SUTD consisting of various program
 Here are some of my school projects:
 1. [Generative Design Project with Rhinoceros and Grasshopper](#generative)
 2. [Parametric Design Project with Rhinoceros and Grasshopper](#parametric)
-3. [Streamlit (Python) Web Application Project for a Karaoke Event](#streamlitkaraoke)
+3. [Streamlit (Python) and Firebase Web Application Project for a Karaoke Event](#streamlitkaraoke)
 4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 
 Pending projects:
@@ -54,7 +54,7 @@ In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, th
 
 <br>
 
-## [3. Streamlit (Python) Web Application Project for a Karaoke Event](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event) <a name = "streamlitkaraoke"></a>
+## [3. Streamlit (Python) and Firebase Web Application Project for a Karaoke Event](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event) <a name = "streamlitkaraoke"></a>
 <p align="center"> 
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Streamlit%20(Python)%20Karaoke%20Singer%20Registration%20web%20application.jpg"  width="350" height="250">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Streamlit%20(Python)%20Song%20Queue%20web%20application.jpg"  width="350" height="250">
