@@ -1,0 +1,8 @@
+#Apparently this 'requirements.txt' special text file is required in order to deploy the Streamlit (Python) app 
+#on Streamlit's community cloud (link: https://share.streamlit.io/) 
+
+#This is the file where you put in all external libraries (other than the Streamlit (Python) library itself
+#that you are using in your Streamlit (Python) web application's code so that during deployment, you don't
+#get the error of the library module not found (e.g. ModuleNotFoundError: 'firebase_admin')
+firebase_admin
+streamlit_autorefresh
