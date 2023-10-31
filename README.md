@@ -73,6 +73,13 @@ In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folde
 *Frameworks used:*  
 <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
+notice for the deployed folder the files have different (shorter) names, to prevent errors during deployment (cuz long file names may cause error during deployment)
+
+The website for deployment: https://streamlit.io/cloud
+Website where I learnt how to deploy: https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
+
+Talk about the extra files: requirements.txt and the .streamlit/config.toml files
+
 This project can be considered a semi-budget full stack website
 Learning sources:
 - Firebase with Python Full Course Youtube video: https://www.youtube.com/watch?v=s-Ga8c3toVY&t=336s (Code First 
