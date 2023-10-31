@@ -40,7 +40,7 @@ print(reference_to_database.get())
 
 st.image(image="karaoke_poster.jpg", width=680)
 st.header("🎶 Add Your Name and Your Song Choice! 🎶")
-st.markdown("If you accidentally added yourself into the song queue and wish to remove yourself from the queue, please message Jet Wei on telegram (Tele handle: @Jetwei)")
+st.markdown("If you accidentally added yourself into the song queue and wish to remove yourself from the queue, please message Jet Wei (@Jetwei) or Siddharth (@musicbysid) on telegram!")
 
 
 ########################################################
