@@ -78,7 +78,7 @@ notice for the deployed folder the files have different (shorter) names, to prev
 The website for deployment: https://streamlit.io/cloud
 Website where I learnt how to deploy: https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
 
-Talk about the extra files: requirements.txt and the .streamlit/config.toml files
+Talk about the extra files: requirements.txt and the .streamlit/config.toml files (its according to instructions given in the how to deploy a streamlit web app documentation here: https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
 
 This project can be considered a semi-budget full stack website
 Learning sources:
