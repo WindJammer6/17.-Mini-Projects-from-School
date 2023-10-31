@@ -73,7 +73,7 @@ In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folde
 *Frameworks used:*  
 <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
-refer to the 18. Deployed streamlit... repo for more details on this project
+refer to the 18. Deployed streamlit... repo for more details on this project the code files in the repo there is the exact same as the code files in the (deployed...) folder in the 3. Streamlit folder in this repo
 
 notice for the deployed folder the files have different (shorter) names, to prevent errors during deployment (cuz long file names may cause error during deployment)
 
