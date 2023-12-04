@@ -7,7 +7,7 @@ Here are some of my school projects:
 2. [Parametric Design Project with Rhinoceros and Grasshopper](#parametric)
 3. [Streamlit (Python) and Firebase Web Application Project for a Karaoke Event](#streamlitkaraoke)
 4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
-5. [5. Arcade Minigames (Python) Project](#arcade)
+5. [Arcade Minigames (Python) Project](#arcade)
 
 Pending projects:
 nil
