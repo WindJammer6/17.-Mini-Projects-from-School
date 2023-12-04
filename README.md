@@ -150,7 +150,7 @@ nil
 ## [5. Arcade Minigames (Python) Project](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/5.%20Arcade%20Minigames%20(Python)%20Project) <a name = "arcade"></a>
 **Summary about the project:**  
 <p align="center"> 
-  
+  https://github.com/WindJammer6/17.-Projects-from-School/blob/main/5.%20Arcade%20Minigames%20(Python)%20Project/Arcade%20Minigames%20(Python)%20Project%20Introduction%20Video.mp4
 </p>
 
 [Descriptions here]
