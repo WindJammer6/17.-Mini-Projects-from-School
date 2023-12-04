@@ -1,0 +1,5 @@
+Select a difficulty (cycle speed increases with difficulty):
+Easy,25
+Medium,20
+Hard,15
+Extreme,10

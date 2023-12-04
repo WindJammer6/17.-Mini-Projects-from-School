@@ -1,0 +1,4 @@
+Enter your desired game resolution:
+540px,540
+640px,640
+720px,720

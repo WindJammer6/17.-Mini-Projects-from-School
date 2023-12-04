@@ -1,0 +1,13 @@
+Welcome to
+   __   _      __   __    _____         __   
+  / /  (_)__ _/ /  / /_  / ___/_ ______/ /__ 
+ / /__/ / _ `/ _ \/ __/ / /__/ // / __/ / -_)
+/____/_/\_, /_//_/\__/  \___/\_, /\__/_/\__/ 
+       /___/                /___/            
+
+based on TRON
+
+Controls:
+WASD : Move Player 1
+Arrow Keys : Move Player 2
+Escape : Exit game
