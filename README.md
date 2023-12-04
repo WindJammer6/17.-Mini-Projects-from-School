@@ -150,10 +150,10 @@ nil
 ## [5. Arcade Minigames (Python) Project](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/5.%20Arcade%20Minigames%20(Python)%20Project) <a name = "arcade"></a>
 **Summary about the project:**  
 <p align="center"> 
-  https://github.com/WindJammer6/17.-Projects-from-School/blob/main/5.%20Arcade%20Minigames%20(Python)%20Project/Arcade%20Minigames%20(Python)%20Project%20Introduction%20Video.mp4
+  https://github.com/WindJammer6/17.-Projects-from-School/blob/main/5.%20Arcade%20Minigames%20(Python)%20Project/Arcade%20Minigames%20(Python)%20Project%20Introduction%20Video.mp4 (Introduction video to this arcade minigames project)
 </p>
 
-[Descriptions here]
+[Descriptions here] Consists of 6 minigames (tictactoe (no GUI), hangman (no GUI), rock paper scissors (no GUI), blackjack (no GUI), light cycle (with GUI) and space invaders (with GUI)), complete with a main menu
 
 *Programming Languages used:*   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
