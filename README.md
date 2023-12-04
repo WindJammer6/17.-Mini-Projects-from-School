@@ -7,6 +7,7 @@ Here are some of my school projects:
 2. [Parametric Design Project with Rhinoceros and Grasshopper](#parametric)
 3. [Streamlit (Python) and Firebase Web Application Project for a Karaoke Event](#streamlitkaraoke)
 4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
+5. [5. Arcade Minigames (Python) Project](#arcade)
 
 Pending projects:
 nil
@@ -137,6 +138,22 @@ From wikipedia: "Chaos theory is an interdisciplinary area of scientific study a
 The project task is to solve the Lorenz Equation (a Chaotic system/equation) as given in the question by drawing graphs with varying initial conditions and parameters (∂, r and b) and plotting y against t for the graphs.
 
 Not much new here, except that I had to learn how to use the 'solve_ivp' function from the 'scipy.integrate' library specifically to be able to plot the set of Ordinary Differential Equations (ODE) of the Lorenz Equation using Matplotlib in Python into a graph (link of Youtube video where I learnt how to use the 'solve_ivp' function from the 'scipy.integrate' library: https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo))
+
+*Programming Languages used:*   
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+*Frameworks used:*  
+nil
+
+<br>
+
+## [5. Arcade Minigames (Python) Project](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/5.%20Arcade%20Minigames%20(Python)%20Project) <a name = "arcade"></a>
+**Summary about the project:**  
+<p align="center"> 
+
+</p>
+
+[Descriptions here]
 
 *Programming Languages used:*   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
