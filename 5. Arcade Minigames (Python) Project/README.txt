@@ -1,2 +1,2 @@
-1. Run MainMenu.py in your favourite terminal
+1. Run mainmenu.py in your favourite terminal
 2. Enjoy
