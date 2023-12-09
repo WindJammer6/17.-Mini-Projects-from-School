@@ -68,6 +68,9 @@ The project task is to create a supporting technology project to support a Karao
 
 In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folder, there are 2 folders, consisting of my learning journey of the Streamlit (Python Framework) (Youtube playlist where I learnt the Streamlit (Python Framework) from: https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW by [Nileg Production](https://www.youtube.com/@nilegproduction) (only up till the 14th video in the playlist)) and the Streamlit (Python Framework) Web Application Project itself.
 
+*Source(s):*  
+https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW (Nileg Production)
+
 *Programming Languages used:*  
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
@@ -139,6 +142,9 @@ The project task is to solve the Lorenz Equation (a Chaotic system/equation) as 
 
 Not much new here, except that I had to learn how to use the 'solve_ivp' function from the 'scipy.integrate' library specifically to be able to plot the set of Ordinary Differential Equations (ODE) of the Lorenz Equation using Matplotlib in Python into a graph (link of Youtube video where I learnt how to use the 'solve_ivp' function from the 'scipy.integrate' library: https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo))
 
+*Source(s):*  
+https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo)
+
 *Programming Languages used:*   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
@@ -154,6 +160,9 @@ nil
 </p>
 
 [Descriptions here] A group programming assignment done by me and 5 of my classmates. Consists of 6 minigames (tictactoe (no GUI), hangman (no GUI), rock paper scissors (no GUI), blackjack (no GUI), light cycle (with GUI) and space invaders (with GUI)), complete with a main menu
+
+*Source(s):*  
+nil
 
 *Programming Languages used:*   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
