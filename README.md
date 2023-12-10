@@ -78,36 +78,28 @@ In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folde
 + '(main, using Firebase as database) Streamlit (Python Framework) and Firebase ROOTech Karaoke Night project' - consists of the files that contains the code for the main version of the Streamlit (Python Framework) Web Application Project with the Firebase (API). (excludes the supporting files required for deployment of the Streamlit (Python Framework) and Firebase (API) Web Application Project with detailed namings of the files)
 + '(prototype, using csv file as database) Streamlit (Python Framework) ROOTech Karaoke Night project' - consists of the files that contains the prototype version of the Streamlit (Python Framework) Web Application Project, but it uses a CSV file as a 'database' rather than the Firebase (API). However, a senior eventually mentioned that this will not work as a CSV file is not dynamic, and will be unchangable/static when it is deployed, which will not work as the project needs to be dynamic, where the database needs to be able to be constantly updated during the deployment. This is where the connecting the 2 Streamlit Web Applications to an alternate database such as Firebase (API)'s Realtime Database solves the problem.
 
+*This project's deployed Streamlit (Python Framework)'s Web Applications and Firebase (API) links:*
++ https://8kbtr2cyktbh4qn2doay5g.streamlit.app/ (Karaoke Singer Registration Streamlit (Python Framework) Web Application)
++ https://2bgope7myic8tuh3dy6vi4.streamlit.app/ (Song queue display Streamlit (Python Framework) Web Application)
++ https://console.firebase.google.com/u/0/project/karaokeeventproject/database/karaokeeventproject-default-rtdb/data (Direct link to this project's Firebase (API) Realtime database)  
+
 *Potential Improvements:*
+- Automating the process, where after the end of a song, the song queue removes the top singer in the song queue who has completed their song
+- Add a functionality where the registration Streamlit (Python Framework) Web Application tells the user, upon submitting their registration details, how many other users are in front of them in the song queue
 
-#Only issue is how to automate when to remove a person from the queue when their song is done? (How do dequeue is easy,
-#problem is just when to do it)
-
-
-#DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
- 
-#To be improved areas:
-#- maybe can say how many people left before the user in the queue
-#- automatically dequeue the top singer in the queue after they have finished their song during the Karaoke Evenet
-
-#https://console.firebase.google.com/u/0/
-
-The direct firebase database link: https://console.firebase.google.com/u/0/project/karaokeeventproject/database/karaokeeventproject-default-rtdb/data 
-
-*Link(s):*
-The website for deployment: https://streamlit.io/cloud
-Website where I learnt how to deploy: https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
-
+*Additional Link(s):*
++ https://streamlit.io/cloud (Streamlit (Python Framework)'s cloud software where you can deploy your Streamlit (Python Framework) Web Application)
++ https://console.firebase.google.com/u/0/ (Firebase (API) software)
 
 *Source(s):*  
 - https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW (Nileg Production) (Learning of Streamlit (Python Framework))  
 - https://www.youtube.com/watch?v=s-Ga8c3toVY&t=336s (Code First with Hala) (Learning of how to connect Firebase (API) to Python)  
 - https://docs.streamlit.io/library/api-reference/session-state (Streamlit) (Streamlit (Python Framework)'s official documentation on it's 'st.session_state' function. Had a seperate learning source for this particular function due to the complexity of its function)  
 - https://www.youtube.com/watch?v=92jUAXBmZyU (Streamlit) (Youtube Video: 'Session State Basics' by Streamlit)  
-- https://github.com/kmcgrady/streamlit-autorefresh#how-does-this-component-help ([kmcgrady](https://github.com/kmcgrady) on Github) (Documentation on a custom Streamlit function, 'st_autorefresh' from the custom  'streamlit-autorefresh' library created by [kmcgrady](https://github.com/kmcgrady) that I used in the song queue display Streamlit (Python Framework) Web Application)  
+- https://github.com/kmcgrady/streamlit-autorefresh#how-does-this-component-help ([kmcgrady](https://github.com/kmcgrady) on Github) (Documentation on a custom Streamlit function, 'st_autorefresh' from the custom  'streamlit-autorefresh' library created by [kmcgrady](https://github.com/kmcgrady) that I used in the song queue display Streamlit (Python Framework) Web Application)
+- https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app (Streamlit) (Documentation on how to deploy a Streamlit (Python Framework) Web Application)
 - https://chat.openai.com/ (ChatGPT)  
 - And lastly... seniors and friends from school :)
-
 
 *Programming Languages used:*  
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
@@ -119,26 +111,7 @@ refer to the 18. Deployed streamlit... repo for more details on this project the
 
 notice for the deployed folder the files have different (shorter) names, to prevent errors during deployment (cuz long file names may cause error during deployment)
 
-The website for deployment: https://streamlit.io/cloud
-Website where I learnt how to deploy: https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
-
 Talk about the extra files: requirements.txt and the .streamlit/config.toml files (its according to instructions given in the how to deploy a streamlit web app documentation here: https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
-
-This project can be considered a semi-budget full stack website
-Learning sources:
-- Firebase with Python Full Course Youtube video: https://www.youtube.com/watch?v=s-Ga8c3toVY&t=336s (Code First 
-  with Hala)
-- ChatGPT: https://chat.openai.com/
-- #- https://docs.streamlit.io/library/api-reference/session-state (Streamlit (Python)'s official documentation on
-#the 'st.session_state' function)
-#- https://www.youtube.com/watch?v=92jUAXBmZyU) (Youtube video labekled 'Session State Basics' by Streamlit Youtube)
-#(Link: https://github.com/kmcgrady/streamlit-autorefresh#how-does-this-component-help (kmcgrady, Ken McGrady))
-#https://console.firebase.google.com/u/0/
-
-The direct firebase database link: https://console.firebase.google.com/u/0/project/karaokeeventproject/database/karaokeeventproject-default-rtdb/data 
-
-Imrpovements for the project:
-#DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE (maybe can say how many people left before you?)
 
 <br>
 
