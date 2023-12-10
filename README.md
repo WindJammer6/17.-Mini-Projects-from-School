@@ -163,7 +163,15 @@ nil
 
 </p>
 
-[Descriptions here] A group programming assignment done by me and 5 of my classmates. Consists of 6 minigames (tictactoe (no GUI), hangman (no GUI), rock paper scissors (no GUI), blackjack (no GUI), light cycle (with GUI) and space invaders (with GUI)), complete with a main menu
+This is a groupwork Python programming assignment done by me and some of my classmates. It consists of a main menu (no GUI) and 6 minigames:  
++ Tic-Tac-Toe (no GUI)
++ Hangman (no GUI)
++ Rock, Paper, Scissors (no GUI)
++ Blackjack (no GUI)
++ Light Cycle (with GUI, using the 'turtle' Python library)
++ Space Invaders (with GUI, using the 'tkinter' Python library)
+
+The video shows a demonstration of how the 'Arcade Minigames' Python project looks like. Done by me using [OBS Studio software](https://obsproject.com/) for screen recording and [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html) (by NCH Software) for video editing. Music is '[Always with me](https://www.youtube.com/watch?v=ESJ7TQvFFrA)' by Studio Ghibli.
 
 *Source(s):*  
 nil
