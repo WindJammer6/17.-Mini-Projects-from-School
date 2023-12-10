@@ -25,6 +25,9 @@ The project task is to create a generative design in Rhinoceros and Grasshopper 
 
 In the '1. Generative Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow. Used Photoshop to create the GIF animations in the PowerPoint slides to capture the physical changes in the 3D model as a parameter in the Grasshopper code is changed.
 
+*Source(s):*  
+(See the PowerPoint slides)
+
 *Programming Languages used:*   
 nil
 
@@ -47,6 +50,9 @@ The project task is to create a parametric design model using the techniques dev
 
 In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow. Used Photoshop to create the GIF animations in the PowerPoint slides to capture the physical changes in the 3D model as a parameter in the Grasshopper code is changed.
 
+*Source(s):*  
+(See the PowerPoint slides)
+
 *Programming Languages used:*  
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
@@ -64,12 +70,44 @@ In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, th
 </p>
 
 **Summary about the project:**  
-The project task is to create a supporting technology project to support a Karaoke Event organised by the school student leadership committee. The technology project I have decided to create is a Web Application using Streamlit (Python Framework) where users can submit their name and song choice via a Streamlit (Python) website link, which will then be added into a database, where another Streamlit (Python) website will draw the data from to display the song queue on a projected screen to show whoever is the next singer and their song choice during the Karaoke Event. 
+The project task is to create a supporting technology project to support a Karaoke Event (titled SingUTD), organised by me and other members of the student committee of our school. To meet the tasks required, I have decided to create 2 Web Applications using Streamlit (Python Framework), linked together via Firebase (API)'s Realtime Database. The first Web Application allows users to submit their name and song choice via a Streamlit (Python) website link, where the data will then be added into the Firebase (API)'s Realtime Database, where the other Streamlit (Python) Web Application will draw the data from to display the data in a song queue on a projected screen during the Karaoke Event to show whoever is the next singer and their song choice. 
 
-In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folder, there are 2 folders, consisting of my learning journey of the Streamlit (Python Framework) (Youtube playlist where I learnt the Streamlit (Python Framework) from: https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW by [Nileg Production](https://www.youtube.com/@nilegproduction) (only up till the 14th video in the playlist)) and the Streamlit (Python Framework) Web Application Project itself.
+In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folder, there are 4 folders:  
++ 'Streamlit (Python Framework) learn' - consists of my learning journey of the Streamlit (Python Framework) (Youtube playlist where I learnt the Streamlit (Python Framework) from: https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW by [Nileg Production](https://www.youtube.com/@nilegproduction) (only up till the 14th video in the playlist)
++ '(deployed, using Firebase as database) Streamlit (Python Framework) and Firebase ROOTech Karaoke Night project' - consists of the files that are required for the deployment of the main version of the Streamlit (Python Framework) Web Application Project with the Firebase (API) itself. The deployed Streamlit (Python Framework) Web Application and Firebase (API) Project is linked to this Github account. [18.-Deployed-Streamlit-Python-and-Firebase-Web-Application-Project-for-a-Karaoke-Event](https://github.com/WindJammer6/18.-Deployed-Streamlit-Python-and-Firebase-Web-Application-Project-for-a-Karaoke-Event) is the repository that is linked to the deployed Streamlit (Python Framework) and Firebase (API) Web Application Project.
++ '(main, using Firebase as database) Streamlit (Python Framework) and Firebase ROOTech Karaoke Night project' - consists of the files that contains the code for the main version of the Streamlit (Python Framework) Web Application Project with the Firebase (API). (excludes the supporting files required for deployment of the Streamlit (Python Framework) and Firebase (API) Web Application Project with detailed namings of the files)
++ '(prototype, using csv file as database) Streamlit (Python Framework) ROOTech Karaoke Night project' - consists of the files that contains the prototype version of the Streamlit (Python Framework) Web Application Project, but it uses a CSV file as a 'database' rather than the Firebase (API). However, a senior eventually mentioned that this will not work as a CSV file is not dynamic, and will be unchangable/static when it is deployed, which will not work as the project needs to be dynamic, where the database needs to be able to be constantly updated during the deployment. This is where the connecting the 2 Streamlit Web Applications to an alternate database such as Firebase (API)'s Realtime Database solves the problem.
+
+*Potential Improvements:*
+
+#Only issue is how to automate when to remove a person from the queue when their song is done? (How do dequeue is easy,
+#problem is just when to do it)
+
+
+#DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+ 
+#To be improved areas:
+#- maybe can say how many people left before the user in the queue
+#- automatically dequeue the top singer in the queue after they have finished their song during the Karaoke Evenet
+
+#https://console.firebase.google.com/u/0/
+
+The direct firebase database link: https://console.firebase.google.com/u/0/project/karaokeeventproject/database/karaokeeventproject-default-rtdb/data 
+
+*Link(s):*
+The website for deployment: https://streamlit.io/cloud
+Website where I learnt how to deploy: https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app
+
 
 *Source(s):*  
-https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW (Nileg Production)
+- https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW (Nileg Production) (Learning of Streamlit (Python Framework))  
+- https://www.youtube.com/watch?v=s-Ga8c3toVY&t=336s (Code First with Hala) (Learning of how to connect Firebase (API) to Python)  
+- https://docs.streamlit.io/library/api-reference/session-state (Streamlit) (Streamlit (Python Framework)'s official documentation on it's 'st.session_state' function. Had a seperate learning source for this particular function due to the complexity of its function)  
+- https://www.youtube.com/watch?v=92jUAXBmZyU (Streamlit) (Youtube Video: 'Session State Basics' by Streamlit)  
+- https://github.com/kmcgrady/streamlit-autorefresh#how-does-this-component-help ([kmcgrady](https://github.com/kmcgrady) on Github) (Documentation on a custom Streamlit function, 'st_autorefresh' from the custom  'streamlit-autorefresh' library created by [kmcgrady](https://github.com/kmcgrady) that I used in the song queue display Streamlit (Python Framework) Web Application)  
+- https://chat.openai.com/ (ChatGPT)  
+- And lastly... seniors and friends from school :)
+
 
 *Programming Languages used:*  
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
@@ -102,26 +140,9 @@ The direct firebase database link: https://console.firebase.google.com/u/0/proje
 Imrpovements for the project:
 #DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE (maybe can say how many people left before you?)
 
-
-#Only issue is how to automate when to remove a person from the queue when their song is done? (How do dequeue is easy,
-#problem is just when to do it)
-
-#Only issue is how to automate when to remove a person from the queue when their song is done? (How do dequeue is easy,
-#problem is just when to do it)
-
-You Xiang senior, GitHub app
-
-
-#DONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
- 
-#To be improved areas:
-#- maybe can say how many people left before the user in the queue
-#- automatically dequeue the top singer in the queue after they have finished their song during the Karaoke Evenet
-
 <br>
 
 ## [4. Sketching Graphs from the Lorenz Equation (Chaos Theory)](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)) <a name = "chaostheory"></a>
-**Summary about the project:**  
 <p align="center"> 
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20Question%20for%20Sketching%20Graphs%20of%20the%20Lorenz%20Equation%20(Chaos%20Theory)%20(1).png"  width="250" height="200">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20Question%20for%20Sketching%20Graphs%20of%20the%20Lorenz%20Equation%20(Chaos%20Theory)%20(2).png"  width="250" height="200">
@@ -132,6 +153,7 @@ You Xiang senior, GitHub app
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case3_No_Chaos_figure.png"  width="250" height="200">
 </p>
 
+**Summary about the project:**  
 + The first Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=28, b=8/3 and represents Chaos in the Lorenz Equation solutions.  
 + The second Lorenz Equation graph has the initial conditions of x=-25, y=-10, z=-13.9, and parameters of ∂=10, r=21, b=8/3 and represents Transient Chaos in the Lorenz Equation solutions.  
 + The third Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=350, b=8/3 and represents no Chaos in the Lorenz Equation solutions.  
@@ -143,7 +165,7 @@ The project task is to solve the Lorenz Equation (a Chaotic system/equation) as 
 Not much new here, except that I had to learn how to use the 'solve_ivp' function from the 'scipy.integrate' library specifically to be able to plot the set of Ordinary Differential Equations (ODE) of the Lorenz Equation using Matplotlib in Python into a graph (link of Youtube video where I learnt how to use the 'solve_ivp' function from the 'scipy.integrate' library: https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo))
 
 *Source(s):*  
-https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo)
+- https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo)
 
 *Programming Languages used:*   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
@@ -154,7 +176,6 @@ nil
 <br>
 
 ## [5. Arcade Minigames (Python) Project](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/5.%20Arcade%20Minigames%20(Python)%20Project) <a name = "arcade"></a>
-**Summary about the project:**  
 <p align="center"> 
   
 
@@ -163,7 +184,8 @@ nil
 
 </p>
 
-This is a groupwork Python programming assignment done by me and some of my classmates. It consists of a main menu (no GUI) and 6 minigames:  
+**Summary about the project:**  
+The project task is to create a Python programming project assignment in a group, hence the creation of this project, done by me and some of my classmates. It consists of a main menu (no GUI) and 6 minigames:  
 + Tic-Tac-Toe (no GUI)
 + Hangman (no GUI)
 + Rock, Paper, Scissors (no GUI)
