@@ -81,7 +81,7 @@ In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folde
 *This project's deployed Streamlit (Python Framework)'s Web Applications and Firebase (API) links:*
 + https://8kbtr2cyktbh4qn2doay5g.streamlit.app/ (Karaoke Singer Registration Streamlit (Python Framework) Web Application)
 + https://2bgope7myic8tuh3dy6vi4.streamlit.app/ (Song queue display Streamlit (Python Framework) Web Application)
-+ https://console.firebase.google.com/u/0/project/karaokeeventproject/database/karaokeeventproject-default-rtdb/data (Direct link to this project's Firebase (API) Realtime database)  
++ https://console.firebase.google.com/u/0/project/karaokeeventproject/database/karaokeeventproject-default-rtdb/data (Direct link to this project's Firebase (API) Realtime database, but only accessible by me through email)  
 
 *Potential Improvements:*
 - Automating the process, where after the end of a song, the song queue removes the top singer in the song queue who has completed their song
