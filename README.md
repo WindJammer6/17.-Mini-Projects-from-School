@@ -9,9 +9,6 @@ Here are some of my school projects:
 4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 5. [Arcade Minigames (Python) Project](#arcade)
 
-Pending projects:
-nil
-
 <br>
 
 ## [1. Generative Design Project with Rhinoceros and Grasshopper](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper) <a name = "generative"></a>
