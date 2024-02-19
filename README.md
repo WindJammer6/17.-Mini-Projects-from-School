@@ -8,6 +8,7 @@ Here are some of my school projects:
 3. [Streamlit (Python) and Firebase Web Application Project for a Karaoke Event](#streamlitkaraoke)
 4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 5. [Arcade Minigames (Python) Project](#arcade)
+6. [Design Thinking and Innovation (DTI) Project](#dti)
 
 <br>
 
@@ -168,5 +169,24 @@ nil
 *Frameworks used:*  
 nil
 
+<br>
 
+## [6. Design Thinking and Innovation (DTI) Project](link no exist) <a name = "dti"></a>
+<p align="center"> 
+  
+
+</p>
+
+
+**Summary about the project:**  
+The project task is to improve social experience of taking the lift using lights.
+
+*Source(s):*  
+nil
+
+*Programming Languages used:*   
+[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+
+*Frameworks used:*  
+nil
 
