@@ -185,8 +185,7 @@ The project task is to improve social experience of taking the lift using lights
 nil
 
 *Programming Languages used:*   
-[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
-
-*Frameworks used:*  
 nil
 
+*Frameworks used:*  
+[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
