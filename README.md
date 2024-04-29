@@ -9,6 +9,7 @@ Here are some of my school projects:
 4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 5. [Arcade Minigames (Python) Project](#arcade)
 6. [Design Thinking and Innovation (DTI) Project](#dti)
+7. [Quantum Chemistry](#quantumchemistry)
 
 <br>
 
