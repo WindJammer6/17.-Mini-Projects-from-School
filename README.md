@@ -191,3 +191,27 @@ nil
 
 *Frameworks used:*  
 [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) 
+
+
+<br>
+
+## [7. Quantum Chemistry](link no exist) <a name = "dti"></a>
+<p align="center"> 
+  
+
+</p>
+
+
+**Summary about the project:**  
+Atom cadding.
+
+using mobaxterm, winscp, avogadro and gaussview
+
+*Source(s):*  
+nil
+
+*Programming Languages used:*   
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+*Frameworks used:*  
+nil
