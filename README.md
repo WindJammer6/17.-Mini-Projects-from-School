@@ -185,7 +185,7 @@ The project task is to improve social experience of taking the lift using lights
 nil
 
 *Programming Languages used:*   
-nil
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 *Frameworks used:*  
-[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) imovie for video editing
