@@ -181,6 +181,8 @@ nil
 **Summary about the project:**  
 The project task is to improve social experience of taking the lift using lights.
 
+imovie for video editing, ultimaker cura for 3d printing, and rdworks for laser cutting
+
 *Source(s):*  
 nil
 
@@ -188,4 +190,4 @@ nil
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 *Frameworks used:*  
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) imovie for video editing
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) 
