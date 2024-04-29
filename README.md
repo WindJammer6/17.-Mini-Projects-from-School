@@ -212,7 +212,7 @@ using mobaxterm, winscp, avogadro and gaussview
 nil
 
 *Programming Languages used:*   
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+nil
 
 *Frameworks used:*  
 nil
