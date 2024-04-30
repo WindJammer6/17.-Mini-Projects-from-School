@@ -8,7 +8,7 @@ Here are some of my school projects:
 3. [Streamlit (Python) and Firebase Web Application Project for a Karaoke Event](#streamlitkaraoke)
 4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 5. [Arcade Minigames (Python) Project](#arcade)
-6. [Design Thinking and Innovation (DTI) Project](#dti)
+6. [6. SUTD's Design Thinking and Innovation (DTI) module project](#dti)
 7. [Quantum Chemistry](#quantumchemistry)
 
 <br>
@@ -172,7 +172,7 @@ nil
 
 <br>
 
-## [6. Design Thinking and Innovation (DTI) Project](link no exist) <a name = "dti"></a>
+## [6. SUTD's Design Thinking and Innovation (DTI) module project](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project) <a name = "dti"></a>
 <p align="center"> 
   
 
