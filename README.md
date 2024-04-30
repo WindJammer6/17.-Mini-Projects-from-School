@@ -204,7 +204,7 @@ nil
 
 
 **Summary about the project:**  
-Atom cadding.
+Short interesting assignment (not project) on atom cadding with some software.
 
 using mobaxterm, winscp, avogadro and gaussview
 
