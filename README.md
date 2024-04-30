@@ -8,8 +8,8 @@ Here are some of my school projects:
 3. [Streamlit (Python) and Firebase Web Application Project for a Karaoke Event](#streamlitkaraoke)
 4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 5. [Arcade Minigames (Python) Project](#arcade)
-6. [6. SUTD's Design Thinking and Innovation (DTI) module project](#dti)
-7. [Quantum Chemistry](#quantumchemistry)
+6. [SUTD's Design Thinking and Innovation (DTI) module project](#dti)
+7. [Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](#quantumchemistry)
 
 <br>
 
@@ -196,7 +196,7 @@ nil
 
 <br>
 
-## [7. Quantum Chemistry](link no exist) <a name = "dti"></a>
+## [7. Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "quantumchemistry"></a>
 <p align="center"> 
   
 
