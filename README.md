@@ -1,3 +1,5 @@
+
+https://github.com/WindJammer6/17.-Projects-from-School/assets/98175995/4ffff97d-009f-4c51-8f3d-fbabf069b8ad
 # 17.-Projects-from-School
 A compilation of school projects I've done at SUTD consisting of various programming languages and frameworks.
 
@@ -188,9 +190,14 @@ nil
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%205.png"  width="500" height="300"><br>
   (Symmetric Stretching vibration mode of a N2 molecule)<br>
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%204%20(Group%20Work)%20A1%20poster%201.png"  width="600" height="900"><br>
+  
+  
+
+https://github.com/WindJammer6/17.-Projects-from-School/assets/98175995/137c0fd6-89f4-4c2a-b0ac-40281e69a9c6
+
+
   (Symmetric Stretching vibration mode of a N2 molecule)<br>
 </p>
-
 
 **Summary about the project:**  
 The project task is to use creative installations of light to improve social experiences. The project is split into 4 parts that involve different tasks, some are a geoup task, some are individual tasks:  
