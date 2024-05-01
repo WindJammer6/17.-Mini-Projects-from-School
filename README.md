@@ -223,7 +223,7 @@ The project task is to explore and explain some molecular geometry characteristi
 
 Also learnt (surface level) to use some other very technical softwares such as WinSCP (to transfer our processed CAD molecule files to our professors), and MobaXterm (used its terminal to process the directly created CAD molecule files from GaussView ('com' files) into 2 other files, '.log' and '.chk', where the '.log' file is the executable file, which is opened in the Avogadro software to study the CAD molecule's molecular geometry.
 
-Workflow:  
+--Workflow:--  
 a. GaussView - create CAD molecule file ('.com')  
 b. MobaXterm - process the CAD molecule file ('.com') to get '.log' and '.chk' files  
 c. Avogadro - to run the executable processed CAD molecule file ('.log')  
