@@ -183,14 +183,14 @@ nil
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%201.png"  width="500" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%202.png"  width="500" height="300"><br>
   <br>
-  DTI Part 3 (individual work)<br>
+  DTI Part 3 5 A3 posters(individual work)<br>
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%201.png"  width="500" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%202.png"  width="500" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%203.png"  width="500" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%204.png"  width="500" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%205.png"  width="500" height="300"><br>
   <br>
-  DTI Part 4 (group work)<br>
+  DTI Part 4 1 A1 poster, promotional video and functional prototype demonstration video (group work)<br>
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%204%20(Group%20Work)%20A1%20poster%201.png"  width="600" height="900"><br>
   
 
