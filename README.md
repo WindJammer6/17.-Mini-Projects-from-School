@@ -204,6 +204,20 @@ nil
 
 
 **Summary about the project:**  
++ The first Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=28, b=8/3 and represents Chaos in the Lorenz Equation solutions.  
++ The second Lorenz Equation graph has the initial conditions of x=-25, y=-10, z=-13.9, and parameters of ∂=10, r=21, b=8/3 and represents Transient Chaos in the Lorenz Equation solutions.  
++ The third Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=350, b=8/3 and represents no Chaos in the Lorenz Equation solutions.  
+
+From wikipedia: "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics focused on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions, and were once thought to have completely random states of disorder and irregularities." 
+
+The project task is to solve the Lorenz Equation (a Chaotic system/equation) as given in the question by drawing graphs with varying initial conditions and parameters (∂, r and b) and plotting y against t for the graphs.
+
+Not much new here, except that I had to learn how to use the 'solve_ivp' function from the 'scipy.integrate' library specifically to be able to plot the set of Ordinary Differential Equations (ODE) of the Lorenz Equation using Matplotlib in Python into a graph (link of Youtube video where I learnt how to use the 'solve_ivp' function from the 'scipy.integrate' library: https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo))
+
+*Source(s):*  
+- https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo)
+
+**Summary about the project:**  
 Short interesting assignment (not project) on atom cadding with some software.
 
 using mobaxterm, winscp, avogadro and gaussview
@@ -215,4 +229,4 @@ nil
 nil
 
 *Frameworks used:*  
-nil
+<img src="http://lammpstube.com/wp-content/uploads/2019/11/Gaussview-logo-1-3-1200x515.jpg" width="120" height="50"> <img src="https://tse4.mm.bing.net/th?id=OIP.Fm3aWuPD7s4m58-1Rx1d3wHaHR&pid=Api&P=0&h=180" width="50" height="50"> <img src=" https://tehnoblog.org/wp-content/uploads/2021/03/WinSCP-Logo-1536x1536-1-1024x1024.png" width="50" height="50"> <img src=" https://onion.io/wp-content/uploads/2017/11/Moba-Logo.jpg" width="50" height="50">
