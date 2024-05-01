@@ -221,7 +221,7 @@ From wikipedia: "Quantum chemistry, also called molecular quantum mechanics, is 
 
 The project task is to explore and explain some molecular geometry characteristics (e.g. bond length, bond angle, different vibration modes, etc.) for different molecules using the GaussView and Avogadro softwares, and explain how does these molecular geometry characteristics affect its chemical and physical properties of the molecules.
 
-Also learnt (surface level) to use some other very technical softwares such as WinSCP (to transfer our processed CAD molecule files to our professors), and MobaXterm (used its terminal to process the directly created CAD molecule files from GaussView ('com' files) into 2 other files, '.log' and '.chk', where the '.log' file is the executable file, which is opened in the Avogadro software to study the CAD molecule's molecular geometry.
+Also learnt (surface level) to use some other very technical softwares such as WinSCP (to transfer our processed CAD molecule files to our professors), and MobaXterm (used its terminal to process the directly created CAD molecule files from GaussView ('com' files) into 2 other files, '.log' and '.chk', where the '.log' file is the executable file, which is opened in the Avogadro software to study the CAD molecule's molecular geometry).
 
 --Workflow:--  
 a. GaussView - create CAD molecule file ('.com')  
