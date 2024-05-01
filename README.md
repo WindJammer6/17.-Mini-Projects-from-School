@@ -175,18 +175,22 @@ nil
 
 ## [6. SUTD's Design Thinking and Innovation (DTI) module project](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project) <a name = "dti"></a>
 <p align="center"> 
+  DTI Part 1 A3 posters (individual work) <br>
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%201.png"  width="450" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%202.png"  width="450" height="300"><br>
-  (DTI Part 1 A3 posters (individual work))<br>
+  <br>
+  DTI Part 2 A3 posters (group work)<br>
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%201.png"  width="500" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%202.png"  width="500" height="300"><br>
-  (DTI Part 2 A3 posters (group work))<br>
-    <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%201.png"  width="500" height="300">
+  <br>
+  DTI Part 3 (individual work)<br>
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%201.png"  width="500" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%202.png"  width="500" height="300">
-    <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%203.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%203.png"  width="500" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%204.png"  width="500" height="300">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%205.png"  width="500" height="300"><br>
-  (DTI Part 3 (individual work))<br>
+  <br>
+  DTI Part 4 (group work)<br>
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%204%20(Group%20Work)%20A1%20poster%201.png"  width="600" height="900"><br>
   
 
@@ -198,7 +202,7 @@ https://github.com/WindJammer6/17.-Projects-from-School/assets/98175995/547a21a8
 https://github.com/WindJammer6/17.-Projects-from-School/assets/98175995/86ac3729-1217-4ad4-b3aa-1e08284b041a
 
 
-  (DTI Part 4 (group work))<br>
+  
 </p>
 
 **Summary about the project:**  
@@ -211,7 +215,7 @@ The project task is to use creative installations of light to improve social exp
 imovie for video editing, ultimaker cura for 3d printing, and rdworks for laser cutting
 
 *Source(s):*  
-nil
+too many and never keep track
 
 *Programming Languages used:*   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
