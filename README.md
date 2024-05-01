@@ -199,17 +199,23 @@ nil
 
 ## [7. Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "quantumchemistry"></a>
 <p align="center"> 
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200">
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200">
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200">
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bonddist.png"  width="350" height="200">
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bondangle1.png"  width="350" height="200">
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bonddist.png"  width="400" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
+  (Symmetric Stretching vibration mode of a N2 molecule)<br>
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200"><br>
+  (Bending vibration mode of a CO2 molecule)<br>
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200"><br>
+  (Bond angle of a C atom in the cis-2-butene molecule)<br>
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bonddist.png"  width="350" height="200"><br>
+  (Bond length between the C=C double bond in the cis-2-butene molecule)<br>  
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bondangle1.png"  width="350" height="200"><br>  
+    (Bond angle of a C atom in the trans-2-butene molecule)<br>  
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bonddist.png"  width="450" height="200"><br>
+  (Bond length between the C=C double bond in the trans-2-butene molecule)<br>  
 </p>
 
 
 **Summary about the project:**  
-A short interesting assignment (not quite a project) on atom/molecule CADDing using software as part of a Quantum Chemisstry module.
+A short interesting assignment (not quite a project) on atom/molecule CADDing using software as part of a Quantum Chemistry module.
 
 From wikipedia: "Quantum chemistry, also called molecular quantum mechanics, is a branch of physical chemistry focused on the application of quantum mechanics to chemical systems, particularly towards the quantum-mechanical calculation of electronic contributions to physical and chemical properties of molecules, materials, and solutions at the atomic level." 
 
@@ -217,14 +223,11 @@ The project task is to explore and explain some molecular geometry characteristi
 
 Also learnt (surface level) to use some other very technical softwares such as WinSCP (to transfer our processed CAD molecule files to our professors), and MobaXterm (used its terminal to process the directly created CAD molecule files from GaussView ('com' files) into 2 other files, '.log' and '.chk', where the '.log' file is the executable file, which is opened in the Avogadro software to study the CAD molecule's molecular geometry.
 
-Workflow:
-//////////////////////////////////////////////        ////////////////////////////////////////////////////////////////////////////////////        ///////////////////////////////////////////////////////////////////////
-/GaussView (create CAD molecule file ('.com')/ -----> /MobaXterm (process the CAD molecule file ('.com') to get '.log' and '.chk' files )/ -----> /Avogadro (to run the executable processed CAD molecule file ('.log'))/
-//////////////////////////////////////////////        ////////////////////////////////////////////////////////////////////////////////////        ///////////////////////////////////////////////////////////////////////
- 
-/////////////////////////////////////////////////////////////////////////////////////////
-/WinSCP (upload the processed CAD molecule files here ('.com', '.log', '.chk') to share)/
-/////////////////////////////////////////////////////////////////////////////////////////
+Workflow:  
+a. GaussView - create CAD molecule file ('.com')
+b. MobaXterm - process the CAD molecule file ('.com') to get '.log' and '.chk' files
+c. Avogadro - to run the executable processed CAD molecule file ('.log')
+d. WinSCP - upload the processed CAD molecule files here ('.com', '.log', '.chk') to share
 
 *Source(s):*  
 nil
