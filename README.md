@@ -175,13 +175,29 @@ nil
 
 ## [6. SUTD's Design Thinking and Innovation (DTI) module project](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project) <a name = "dti"></a>
 <p align="center"> 
-  
-
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%201.png"  width="450" height="300">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%202.png"  width="450" height="300"><br>
+  (Symmetric Stretching vibration mode of a N2 molecule)<br>
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%201.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%202.png"  width="500" height="300"><br>
+  (Symmetric Stretching vibration mode of a N2 molecule)<br>
+    <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%201.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%202.png"  width="500" height="300">
+    <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%203.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%204.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%205.png"  width="500" height="300"><br>
+  (Symmetric Stretching vibration mode of a N2 molecule)<br>
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%204%20(Group%20Work)%20A1%20poster%201.png"  width="600" height="900"><br>
+  (Symmetric Stretching vibration mode of a N2 molecule)<br>
 </p>
 
 
 **Summary about the project:**  
-The project task is to improve social experience of taking the lift using lights.
+The project task is to use creative installations of light to improve social experiences. The project is split into 4 parts that involve different tasks, some are a geoup task, some are individual tasks:  
+- DTI Part 1: Identify and analyse an everyday activity and a site where this activity takes place, as well as come up with a problem statement (individual work)
+- DTI Part 2: Finalise and refine the analysis of the everyday activity, the site and problem statement as a group (group work)
+- DTI Part 3: Brainstorm ideas and finalise a best idea individually (individual work)
+- DTI Part 4: Finalise and refine the best idea (out of all the individual 'best ideas'), build a functional prototype, and a scale model of the prototype being used at the site (group work) 
 
 imovie for video editing, ultimaker cura for 3d printing, and rdworks for laser cutting
 
@@ -192,8 +208,7 @@ nil
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 *Frameworks used:*  
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) 
-
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) <img src="https://www.print3dd.com/wp-content/uploads/2021/04/RD-Works-V8.jpg" width="50" height="50"> <img src="https://img.utdstc.com/icon/97a/a5e/97aa5e531fee9e0b18d7028609d091062db6e392c49e45859ba0aeeeb118eae4:200" width="50" height="50"> <img src="http://vignette1.wikia.nocookie.net/logopedia/images/6/6a/IMovie4.png/revision/latest?cb=20150622190412" width="50" height="50">
 
 <br>
 
