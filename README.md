@@ -13,13 +13,14 @@ Here are some of my school projects:
 
 <br>
 
-## [1. Generative Design Project with Rhinoceros and Grasshopper](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper) <a name = "generative"></a>
-**Summary about the project:**  
+## [1. Generative Design Project with Rhinoceros and Grasshopper](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper) <a name = "generative"></a> 
 <p align="center"> 
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Generative%20Design%20Assignment%20of%20the%203D%20model%20in%20Rhino.jpg"  width="350" height="200">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/Image%20of%20Generative%20Design%20Assignment%20of%20the%203D%20model's%20Grasshopper%20code.png"  width="250" height="200">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/GIF%20of%20Generative%20Design%20Assignment%20of%20the%203D%20model%20expanding%20upwards.gif"  width="250" height="200">
 </p>
+
+**Summary about the project:** 
 The project task is to create a generative design in Rhinoceros and Grasshopper using techniques developed aiming to produce something that cannot be recreated using conventional media. The theme of this assignment is “Beyond Human Aptitude”.
 
 In the '1. Generative Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow. Used Photoshop to create the GIF animations in the PowerPoint slides to capture the physical changes in the 3D model as a parameter in the Grasshopper code is changed.
@@ -198,29 +199,32 @@ nil
 
 ## [7. Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](https://github.com/WindJammer6/17.-Projects-from-School/tree/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "quantumchemistry"></a>
 <p align="center"> 
-  
-
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bonddist.png"  width="350" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bondangle1.png"  width="350" height="200">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bonddist.png"  width="400" height="200">
 </p>
 
 
 **Summary about the project:**  
-+ The first Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=28, b=8/3 and represents Chaos in the Lorenz Equation solutions.  
-+ The second Lorenz Equation graph has the initial conditions of x=-25, y=-10, z=-13.9, and parameters of ∂=10, r=21, b=8/3 and represents Transient Chaos in the Lorenz Equation solutions.  
-+ The third Lorenz Equation graph has the initial conditions of x=0, y=1, z=0, and parameters of ∂=10, r=350, b=8/3 and represents no Chaos in the Lorenz Equation solutions.  
+A short interesting assignment (not quite a project) on atom/molecule CADDing using software as part of a Quantum Chemisstry module.
 
-From wikipedia: "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics focused on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions, and were once thought to have completely random states of disorder and irregularities." 
+From wikipedia: "Quantum chemistry, also called molecular quantum mechanics, is a branch of physical chemistry focused on the application of quantum mechanics to chemical systems, particularly towards the quantum-mechanical calculation of electronic contributions to physical and chemical properties of molecules, materials, and solutions at the atomic level." 
 
-The project task is to solve the Lorenz Equation (a Chaotic system/equation) as given in the question by drawing graphs with varying initial conditions and parameters (∂, r and b) and plotting y against t for the graphs.
+The project task is to explore and explain some molecular geometry characteristics (e.g. bond length, bond angle, different vibration modes, etc.) for different molecules using the GaussView and Avogadro softwares, and explain how does these molecular geometry characteristics affect its chemical and physical properties of the molecules.
 
-Not much new here, except that I had to learn how to use the 'solve_ivp' function from the 'scipy.integrate' library specifically to be able to plot the set of Ordinary Differential Equations (ODE) of the Lorenz Equation using Matplotlib in Python into a graph (link of Youtube video where I learnt how to use the 'solve_ivp' function from the 'scipy.integrate' library: https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo))
+Also learnt (surface level) to use some other very technical softwares such as WinSCP (to transfer our processed CAD molecule files to our professors), and MobaXterm (used its terminal to process the directly created CAD molecule files from GaussView ('com' files) into 2 other files, '.log' and '.chk', where the '.log' file is the executable file, which is opened in the Avogadro software to study the CAD molecule's molecular geometry.
 
-*Source(s):*  
-- https://www.youtube.com/watch?v=INBu1Pyj0Is (Physics with Neo)
-
-**Summary about the project:**  
-Short interesting assignment (not project) on atom cadding with some software.
-
-using mobaxterm, winscp, avogadro and gaussview
+Workflow:
+//////////////////////////////////////////////        ////////////////////////////////////////////////////////////////////////////////////        ///////////////////////////////////////////////////////////////////////
+/GaussView (create CAD molecule file ('.com')/ -----> /MobaXterm (process the CAD molecule file ('.com') to get '.log' and '.chk' files )/ -----> /Avogadro (to run the executable processed CAD molecule file ('.log'))/
+//////////////////////////////////////////////        ////////////////////////////////////////////////////////////////////////////////////        ///////////////////////////////////////////////////////////////////////
+ 
+/////////////////////////////////////////////////////////////////////////////////////////
+/WinSCP (upload the processed CAD molecule files here ('.com', '.log', '.chk') to share)/
+/////////////////////////////////////////////////////////////////////////////////////////
 
 *Source(s):*  
 nil
