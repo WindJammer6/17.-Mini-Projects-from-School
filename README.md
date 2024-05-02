@@ -223,7 +223,7 @@ The project task is to use creative installations of light to improve social exp
   - On the functional prototype:
     - We used basswood and laser cutting (using [RDWorks](https://www.ruidacontroller.com/ruida-rdworks-software/) software) to build the functional prototype model, with 3D printed 1:15 human models and objects (using [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) software). 
     - We took the approach of building the functional prototype model as puzzle pieces, where we did not use glue/nails, and hence can assemble and disassemble the functional prototype model easily.
-    - We used Arduino, connected to an array of Arduino IR sensor modules, to detect the presence of the 3D printed human models and objects (using [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) software) placed in our functional (1:10) lift prototype model made using basswood and laser cutting (using RDWorks software). The data from the Arduino IR sensor modules is then sent to a computer via a USB cable connected to the computer. 
+    - We used Arduino, connected to an array of Arduino IR sensor modules, to detect the presence of the 3D printed human models and objects (using [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) software) placed in our functional (1:10) lift prototype model made using basswood and laser cutting (using [RDWorks](https://www.ruidacontroller.com/ruida-rdworks-software/) software). The data from the Arduino IR sensor modules is then sent to a computer via a USB cable connected to the computer. 
     - In the computer, a webpage of the farm-themed lift status is built using Flask (a Python website building framework), HTML and CSS, that takes in the data from the Arduino IR sensors, and it refreshes periodically to update itself with the most current data from the Arduino IR sensors. 
 
 
@@ -239,7 +239,7 @@ The project task is to use creative installations of light to improve social exp
     - The poster is done using [Canva](https://www.canva.com/) and the drawn images are done using Abode Illustrator and Photoshop.
 
 *Source(s):*  
-too many and never keep track
+(Too many and cannot keep trackl
 
 *Programming Languages used:*   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
