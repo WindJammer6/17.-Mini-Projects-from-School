@@ -220,9 +220,23 @@ The project task is to use creative installations of light to improve social exp
   - As a group, we finalised on the best idea we have named: **LambLens**. **LambLens** is a visual display of the lift status using aesthetic designs of a farm-theme that is placed around the lift lobby to provide information of the lift status to people looking to take the lift. The visual display updates in realtime, where the lambs indicate where people are standing in the lift.
   - **LambLens** uses an array of IR sensors to track at which spaces in the lift is being occupied by a person or an object (such as a stroller/trolley), and the array of IR sensors sends the data to a microprocessor (such as Arduino), and the processed data is sent to a CPU (such as a computer), which is connected to a display screen which displays the lift status in the entertaining, aesthetic farm-theme.
  
-  - On the functional prototype, we used Arduino, connected to an array of Arduino IR sensor modules, to detect the presence of 3D printed human models and objects (using Ultimaker Cura software) in our smaller scale (1:10) lift prototype     made using basswood and laser cutting (using RDWorks software). The data from the Arduino IR sensor modules is then sent to a computer via a USB cable connected to the computer, where
+  - On the functional prototype:
+    - We used basswood and laser cutting (using RDWorks software) to build the functional prototype model, with 3D printed 1:15 human models and objects (using Ultimaker Cura software). 
+    - We took the approach of building the functional prototype model as puzzle pieces, where we did not use glue/nails, and hence can assemble and disassemble the functional prototype model easily.
+    - We used Arduino, connected to an array of Arduino IR sensor modules, to detect the presence of the 3D printed human models and objects (using Ultimaker Cura software) in our functional (1:10) lift prototype model made using basswood and laser cutting (using RDWorks software). The data from the Arduino IR sensor modules is then sent to a computer via a USB cable connected to the computer. 
+    - In the computer, a webpage of the farm-themed lift status is built using Flask (a Python website building framework), HTML and CSS, that takes in the data from the Arduino IR sensors, and it refreshes periodically to update itself with the most current data from the Arduino IR sensors. 
 
-imovie for video editing, ultimaker cura for 3d printing, and rdworks for laser cutting
+
+  - On the scale model (1:50):
+    - We used basswood, clear acrylic, frosted acrylic and laser cutting (using RDworks software), and 1:50 human models purchased online. 
+    - We took the approach of building the scale model as puzzle pieces, where we did not use glue/nails, and hence can assemble and disassemble the functional prototype model easily.
+
+  - On the promotional video:
+    - We used Blender to create the animations and 2 scenes used in the video, the [Eastpoint Mall (Singapore)](https://www.eastpoint.sg/) model and the Lift Lobby model. The Blender human animations are downloaded from [Mixamo](https://www.mixamo.com/#/), and Blender object models are downloaded from [Turbosquid](https://www.turbosquid.com/Search/3D-Models/free/blend) and [Free3D](https://free3d.com/premium-3d-models/blender).
+    - Video editing is done using iMovie
+
+  - On the A1 poster:
+    - The poster is done using [Canva](https://www.canva.com/) and the drawn images are done using Abode Illustrator and Photoshop.
 
 *Source(s):*  
 too many and never keep track
