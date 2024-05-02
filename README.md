@@ -46,7 +46,7 @@ nil
 </p>
 
 **Summary about the project:**  
-The project task is to create a parametric design model using the techniques developed. Produce a scalar field family of surfaces and present variation matrices mapping interactions between parameters. Categorize instances along qualitative and quantitative dimensions and after selecting your favorite option, use 3D printing to produce a physical prototype using a 3D printing software, Ultimaker Cura. The theme of this assignment is “Mapping Variations”. 
+The project task is to create a parametric design model using the techniques developed. Produce a scalar field family of surfaces and present variation matrices mapping interactions between parameters. Categorize instances along qualitative and quantitative dimensions and after selecting your favorite option, use 3D printing to produce a physical prototype using a 3D printing software, [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/). The theme of this assignment is “Mapping Variations”. 
 
 In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow. Used Photoshop to create the GIF animations in the PowerPoint slides to capture the physical changes in the 3D model as a parameter in the Grasshopper code is changed.
 
@@ -217,23 +217,23 @@ The project task is to use creative installations of light to improve social exp
   - My brainstorm ideas are as shown in the Mindmap A3 poster, with help with inspiration from [ChatGPT](https://chat.openai.com/). My finalised best idea is 'Directional FloorContours', where it attempts to tackle the problem of awkwardness (both physical and emotional) when entering a crowded lift during peak hours, by having floor light marking indications (with a floor level label) that helps to organise movement and positioning of lift users inside the lift and at the lift lobby, that optimises positioning and minimises movement during lift user entering and exiting the lift. The poster is done using [Canva](https://www.canva.com/) and the drawn images are done via image tracing of the personally-taken pictures of the site in Abode Illustrator and image editing in Photoshop.
 
 - DTI Part 4: Finalise and refine the best idea (out of all the individual 'best ideas'), build a functional prototype, and a scale model of the prototype being used at the site (group work)
-  - As a group, we finalised on the best idea we have named: **LambLens**. **LambLens** is a visual display of the lift status using aesthetic designs of a farm-theme that is placed around the lift lobby to provide information of the lift status to people looking to take the lift. The visual display updates in realtime, where the lambs indicate where people are standing in the lift.
-  - **LambLens** uses an array of IR sensors to track at which spaces in the lift is being occupied by a person or an object (such as a stroller/trolley), and the array of IR sensors sends the data to a microprocessor (such as Arduino), and the processed data is sent to a CPU (such as a computer), which is connected to a display screen which displays the lift status in the entertaining, aesthetic farm-theme.
+  - As a group, we finalised on the best idea we have named: **LambLens**. LambLens is a visual display of the lift status using aesthetic designs of a farm-theme that is placed around the lift lobby to provide information of the lift status to people looking to take the lift. The visual display updates in realtime, where the lambs indicate where people are standing in the lift.
+  - LambLens uses an array of IR sensors to track at which spaces in the lift is being occupied by a person or an object (such as a stroller/trolley), and the array of IR sensors sends the data to a microprocessor (such as Arduino), and the processed data is sent to a CPU (such as a computer), which is connected to a display screen which displays the lift status in the entertaining, aesthetic farm-theme.
  
   - On the functional prototype:
-    - We used basswood and laser cutting (using RDWorks software) to build the functional prototype model, with 3D printed 1:15 human models and objects (using Ultimaker Cura software). 
+    - We used basswood and laser cutting (using [RDWorks](https://www.ruidacontroller.com/ruida-rdworks-software/) software) to build the functional prototype model, with 3D printed 1:15 human models and objects (using [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) software). 
     - We took the approach of building the functional prototype model as puzzle pieces, where we did not use glue/nails, and hence can assemble and disassemble the functional prototype model easily.
-    - We used Arduino, connected to an array of Arduino IR sensor modules, to detect the presence of the 3D printed human models and objects (using Ultimaker Cura software) in our functional (1:10) lift prototype model made using basswood and laser cutting (using RDWorks software). The data from the Arduino IR sensor modules is then sent to a computer via a USB cable connected to the computer. 
+    - We used Arduino, connected to an array of Arduino IR sensor modules, to detect the presence of the 3D printed human models and objects (using [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) software) placed in our functional (1:10) lift prototype model made using basswood and laser cutting (using RDWorks software). The data from the Arduino IR sensor modules is then sent to a computer via a USB cable connected to the computer. 
     - In the computer, a webpage of the farm-themed lift status is built using Flask (a Python website building framework), HTML and CSS, that takes in the data from the Arduino IR sensors, and it refreshes periodically to update itself with the most current data from the Arduino IR sensors. 
 
 
   - On the scale model (1:50):
-    - We used basswood, clear acrylic, frosted acrylic and laser cutting (using RDworks software), and 1:50 human models purchased online. 
-    - We took the approach of building the scale model as puzzle pieces, where we did not use glue/nails, and hence can assemble and disassemble the functional prototype model easily.
+    - We used basswood, clear acrylic, frosted acrylic and laser cutting (using [RDWorks](https://www.ruidacontroller.com/ruida-rdworks-software/) software), and 1:50 human models purchased online. 
+    - We took the approach of building the scale model as puzzle pieces, where we did not use glue/nails, and hence can assemble and disassemble the scale prototype model easily.
 
   - On the promotional video:
     - We used Blender to create the animations and 2 scenes used in the video, the [Eastpoint Mall (Singapore)](https://www.eastpoint.sg/) model and the Lift Lobby model. The Blender human animations are downloaded from [Mixamo](https://www.mixamo.com/#/), and Blender object models are downloaded from [Turbosquid](https://www.turbosquid.com/Search/3D-Models/free/blend) and [Free3D](https://free3d.com/premium-3d-models/blender).
-    - Video editing is done using iMovie
+    - Video editing is done using [iMovie](https://apple-imovie.en.softonic.com/mac/download)
 
   - On the A1 poster:
     - The poster is done using [Canva](https://www.canva.com/) and the drawn images are done using Abode Illustrator and Photoshop.
@@ -245,7 +245,7 @@ too many and never keep track
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 *Frameworks used:*  
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) <img src="https://www.print3dd.com/wp-content/uploads/2021/04/RD-Works-V8.jpg" width="50" height="50"> <img src="https://img.utdstc.com/icon/97a/a5e/97aa5e531fee9e0b18d7028609d091062db6e392c49e45859ba0aeeeb118eae4:200" width="50" height="50"> <img src="http://vignette1.wikia.nocookie.net/logopedia/images/6/6a/IMovie4.png/revision/latest?cb=20150622190412" width="50" height="50">
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
 <br>
 
