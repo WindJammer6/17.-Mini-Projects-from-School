@@ -206,7 +206,7 @@ https://github.com/WindJammer6/17.-Projects-from-School/assets/98175995/86ac3729
 </p>
 
 **Summary about the project:**  
-The project task is to use creative installations of light to improve social experiences. The project is split into 4 parts that involve different tasks, some are a geoup task, some are individual tasks:  
+The project task is to use creative installations of light to improve social experiences. The project is split into 4 parts that involve different tasks, some are a group task, some are individual tasks:  
 - DTI Part 1: Identify and analyse an everyday activity and a site where this activity takes place, as well as come up with a problem statement (individual work)
   - My selected everyday activity is taking the lift, and my selected site where this activity takes place is at a lift lobby in [Changi City Point (CCP) Mall (Singapore)](https://changicitypoint.com.sg/stores/). The poster is done using [Canva](https://www.canva.com/) and the drawn images are done via image tracing of the personally-taken pictures of the site in Abode Illustrator and image editing in Photoshop.
 
@@ -239,7 +239,7 @@ The project task is to use creative installations of light to improve social exp
     - The poster is done using [Canva](https://www.canva.com/) and the drawn images are done using Abode Illustrator and Photoshop.
 
 *Source(s):*  
-(Too many and cannot keep trackl
+(Too many and cannot keep track)
 
 *Programming Languages used:*   
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
