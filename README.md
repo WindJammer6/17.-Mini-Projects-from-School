@@ -294,23 +294,11 @@ nil
 <br>
 
 ## 8. ROOT FAQ Forum using Figma and Nextjs
-<p align="center"> 
-  (Symmetric Stretching vibration mode of a N2 molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
-  (Bending vibration mode of a CO2 molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200"><br>
-  (Bond angle of a C atom in the cis-2-butene molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200"><br>
-  (Bond length between the C=C double bond in the cis-2-butene molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bonddist.png"  width="350" height="200"><br>  
-  (Bond angle of a C atom in the trans-2-butene molecule)<br>  
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bondangle1.png"  width="350" height="200"><br>
-  (Bond length between the C=C double bond in the trans-2-butene molecule)<br>  
-  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bonddist.png"  width="450" height="200"><br>
-</p>
-
 
 **Summary about the project:**  
+https://www.figma.com/file/3R7O2Tel3Sx53f5vtqH2sF/Practice-with-Figma-(by-re-creating-the-Whatsapp-UI%2C-Instagram-UI-and-others)?type=design&node-id=21-191&mode=design&t=nP8aI7L3aM7gsXgH-0 Check out my Practice with Figma website here!
+
+https://www.figma.com/file/FKcGirm67sW9K86neDIfzP/SUTD-FAQ-Forum-(as-ROOTech)?type=design&node-id=0-1&mode=design&t=BoAsSR5G5ixDM1Cn-0 Check out the ROOT FAQ forum website here!
 
 *Source(s):*  
 - https://www.youtube.com/watch?v=FTFaQWZBqQ8 (AJ&Smart) (Figma UI Design Tutorial: Get Started in Just 24 Minutes!)
@@ -320,6 +308,8 @@ nil
   - https://www.youtube.com/watch?v=HwiHqfax7Uk&list=PLKId0A0XCIbUYx3c_NYn13W9Z_kkIiA2m&index=3 (Aliena Cai) (Figma tutorial for beginners - auto layout & components)
   - https://www.youtube.com/watch?v=v1UKB-0EUhQ&list=PLKId0A0XCIbUYx3c_NYn13W9Z_kkIiA2m&index=4 (Aliena Cai) (Figma UX tutorial for beginners - Prototype)
 - https://loremipsum.io/ (Lorem Ipsum text generator)
+
+- https://www.figma.com/file/UADlCQoPngvzfWAUxUNm6E/ROOT-Website-Old-Template?type=design&node-id=48-1546&mode=design&t=9TBMU9UE16RBt3ma-0 (senior ROOT booking website template)
 
 *Programming Languages used:*   
 nil
