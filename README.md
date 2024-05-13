@@ -68,6 +68,8 @@ In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, th
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Streamlit%20(Python)%20Song%20Queue%20web%20application.jpg"  width="350" height="250">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Firebase%20Realtime%20Database.jpg"  width="500" height="250">
   <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20CSV%20file%20Database.jpg"  width="400" height="250">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20Karaoke%20Singer%20Registration%20Web%20Application%20Promotional%20Poster%20with%20QR%20code.jpg"  width="400" height="250">
+  <img src="https://github.com/WindJammer6/17.-Projects-from-School/blob/main/3.%20Streamlit%20(Python)%20and%20Firebase%20Web%20Application%20Project%20for%20a%20Karaoke%20Event/Image%20of%20SingUTD%20Promotional%20Poster%20with%20QR%20code%20for%20event%20registration.jpg"  width="400" height="250">
 </p>
 
 **Summary about the project:**  
