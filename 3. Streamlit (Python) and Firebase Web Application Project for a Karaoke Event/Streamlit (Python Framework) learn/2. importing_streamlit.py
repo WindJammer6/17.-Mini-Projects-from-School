@@ -3,7 +3,7 @@
 #top left of the screen, but rather, you need to type in the command:
 #   'streamlit run [filename].py'
 
-#in order to open up your web application website/page. If you just run the Streamlit (python) 
+#in order to open up your web application website/page. If you just run the Streamlit (Python) 
 #code via pressing the triangle 'Run' button, your code will just run, but your web application
 #website/page will not pop up
 
