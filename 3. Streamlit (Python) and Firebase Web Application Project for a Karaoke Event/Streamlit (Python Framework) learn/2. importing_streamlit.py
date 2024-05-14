@@ -1,6 +1,6 @@
 #How to run Streamlit (Python) code?
 #So the way to run Streamlit (Python) code is not by pressing the triangle 'Run' button at the
-#top left of the screen, but rather, you need to type in the command:
+#top right of the screen, but rather, you need to type in the command:
 #   'streamlit run [filename].py'
 
 #in order to open up your web application website/page. If you just run the Streamlit (Python) 
