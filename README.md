@@ -1,4 +1,4 @@
-# 17.-Projects-from-School
+![image](https://github.com/WindJammer6/17.-Projects-from-School/assets/98175995/495b6d4c-ba07-43d0-9de0-cc6bd6eb2138)# 17.-Projects-from-School
 A compilation of school projects I've done at SUTD consisting of various programming languages and frameworks.
 
 ## Table of Contents
@@ -341,4 +341,4 @@ Tally form submission -> Updates Google sheets -> Updates Notion (which will aut
 nil
 
 *Frameworks used:*  
- <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50">
+ <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50">
