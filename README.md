@@ -328,7 +328,7 @@ During the first few months of the new students of my university, there will be 
 
 For some reason (either it was lost or never made), there isn't a automated workflow of this process. Hence, here is my attempt to automate the workflow, using Zapier as the "workflow automated tools" as the software medium of the workflow automation, [Tally](https://tally.so/dashboard) (form) as the event approval form, Google sheets as the database to store details of the submitted event approval form and as the software medium for the university's office staff to approve events, and Notion's calender as the online school calender that will be shared to all the new students.
 
---Workflow:--
+--Workflow:--  
 Tally form submission -> Updates Google sheets -> Updates Notion (which will auto update its Notion calender)
 
 *Source(s):*  
