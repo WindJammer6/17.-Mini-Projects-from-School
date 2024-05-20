@@ -341,5 +341,4 @@ Tally form submission -> Updates Google sheets -> Updates Notion (which will aut
 nil
 
 *Frameworks used:*  
-[![My Skills](https://skillicons.dev/icons?i=zapier)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png
-" width="50" height="50">
+ <img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50">
