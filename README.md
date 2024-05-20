@@ -318,3 +318,28 @@ nil
 
 *Frameworks used:*  
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+<br>
+
+## 8. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
+
+**Summary about the project:**  
+During the first few months of the new students of my university, there will be a series of events be held to integrate them into University life. These events are planned by communities throughout the universities and they need to be approved by the university office by submitting an event approval form. Once approved, the details of the event (e.g. date, venue, sign-up form, hosting organisation, etc.) will updated to an online school calender that will be shared to all the new students.
+
+For some reason (either it was lost or never made), there isn't a automated workflow of this process. Hence, here is my attempt to automate the workflow, using Zapier as the "workflow automated tools" as the software medium of the workflow automation, [Tally](https://tally.so/dashboard) (form) as the event approval form, Google sheets as the database to store details of the submitted event approval form and as the software medium for the university's office staff to approve events, and Notion's calender as the online school calender that will be shared to all the new students.
+
+--Workflow:--
+Tally form submission -> Updates Google sheets -> Updates Notion (which will auto update its Notion calender)
+
+*Source(s):*  
+- https://www.youtube.com/watch?v=-DtyCYwtpwY (XRay Automation) (Zapier tutorial)
+- https://www.youtube.com/watch?v=O8qdvSxDYNY (Notion) (Notion tutorial - Creating a database)
+- https://www.youtube.com/watch?v=gWjclPhdBgY&t=32s (Chris Tech Guide) (Notion tutorial - Create a Calender in Notion)
+
+
+*Programming Languages used:*   
+nil
+
+*Frameworks used:*  
+[![My Skills](https://skillicons.dev/icons?i=zapier)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png
+" width="50" height="50">
