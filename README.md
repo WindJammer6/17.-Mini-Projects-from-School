@@ -1,4 +1,4 @@
-![image](https://github.com/WindJammer6/17.-Projects-from-School/assets/98175995/495b6d4c-ba07-43d0-9de0-cc6bd6eb2138)# 17.-Projects-from-School
+
 A compilation of school projects I've done at SUTD consisting of various programming languages and frameworks.
 
 ## Table of Contents
