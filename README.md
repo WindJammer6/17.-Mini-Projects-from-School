@@ -11,7 +11,7 @@ Here are some of my school projects:
 6. [SUTD's Design Thinking and Innovation (DTI) module project](#dti)
 7. [Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](#quantumchemistry)
 8. ROOT FAQ Forum using Figma and Nextjs
-9. 9. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
+9. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
 
 <br>
 
