@@ -324,6 +324,7 @@ nil
 
 ## 9. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
 
+(refer to the other repo on DiscoverSUTD automation process!!)  
 **Summary about the project:**  
 During the first few months of the new students of my university, there will be a series of events be held to integrate them into University life. These events are planned by communities throughout the universities and they need to be approved by the university office by submitting an event approval form. Once approved, the details of the event (e.g. date, venue, sign-up form, hosting organisation, etc.) will updated to an online school calender that will be shared to all the new students.
 
