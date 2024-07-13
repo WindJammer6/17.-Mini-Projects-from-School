@@ -301,6 +301,8 @@ nil
 **Summary about the project:**  
 https://www.figma.com/file/3R7O2Tel3Sx53f5vtqH2sF/Practice-with-Figma-(by-re-creating-the-Whatsapp-UI%2C-Instagram-UI-and-others)?type=design&node-id=21-191&mode=design&t=nP8aI7L3aM7gsXgH-0 Check out my Practice with Figma website here!
 
+An important rule on Figma is that you should never start anything from scratch! Always remember to take from references, and copy from existing website templates to boost the quality and the creation time of the website prototype! 
+
 https://www.figma.com/file/FKcGirm67sW9K86neDIfzP/SUTD-FAQ-Forum-(as-ROOTech)?type=design&node-id=0-1&mode=design&t=BoAsSR5G5ixDM1Cn-0 Check out the ROOT FAQ forum website here!
 
 *Source(s):*  
