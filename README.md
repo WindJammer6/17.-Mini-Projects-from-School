@@ -101,7 +101,7 @@ In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folde
 - https://docs.streamlit.io/library/api-reference/session-state (Streamlit) (Streamlit (Python Framework)'s official documentation on it's 'st.session_state' function. Had a seperate learning source for this particular function due to the complexity of its function)  
 - https://www.youtube.com/watch?v=92jUAXBmZyU (Streamlit) (Youtube Video: 'Session State Basics' by Streamlit)  
 - https://github.com/kmcgrady/streamlit-autorefresh#how-does-this-component-help ([kmcgrady](https://github.com/kmcgrady) on Github) (Documentation on a custom Streamlit function, 'st_autorefresh' from the custom  'streamlit-autorefresh' library created by [kmcgrady](https://github.com/kmcgrady) that I used in the song queue display Streamlit (Python Framework) Web Application)
-- https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app (Streamlit) (Documentation on how to deploy a Streamlit (Python Framework) Web Application)
+- https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app (Streamlit) (Documentation on how to deploy a Streamlit (Python Framework) Web Application on Streamlit Cloud)
 - https://chat.openai.com/ (ChatGPT)  
 - And lastly... seniors and friends from school :)
 
