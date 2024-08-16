@@ -92,7 +92,7 @@ In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folde
 - Add a functionality where the registration Streamlit (Python Framework) Web Application tells the user, upon submitting their registration details, how many other users are in front of them in the song queue
 
 *Additional Link(s):*
-+ https://streamlit.io/cloud (Streamlit (Python Framework)'s cloud software where you can deploy your Streamlit (Python Framework) Web Application)
++ https://streamlit.io/cloud (Streamlit Cloud where you can deploy your Streamlit (Python Framework) Web Application)
 + https://console.firebase.google.com/u/0/ (Firebase (API) software)
 
 *Source(s):*  
