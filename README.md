@@ -109,7 +109,7 @@ In the '3. Streamlit (Python) Web Application Project for a Karaoke Event' folde
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 *Frameworks used:*  
-<img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase)
 
 <br>
 
