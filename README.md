@@ -9,11 +9,11 @@ A compilation of mini school projects I've done at SUTD consisting of various pr
 Here are some of my school projects:
 1. [Generative Design Project with Rhinoceros and Grasshopper](#generative)
 2. [Parametric Design Project with Rhinoceros and Grasshopper](#parametric)
-3. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
-4. [Arcade Minigames (Python) Project](#arcade)
-5. [SUTD's Design Thinking and Innovation (DTI) module project](#dti)
-6. [Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](#quantumchemistry)
-7. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
+3. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
+4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
+5. [Arcade Minigames (Python) Project](#arcade)
+6. [SUTD's Design Thinking and Innovation (DTI) module project](#dti)
+7. [Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](#quantumchemistry)
 8. ROOT FAQ Forum using Figma and Nextjs
 
 <br>
@@ -66,15 +66,41 @@ In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, th
 
 <br>
 
-## [3. Sketching Graphs from the Lorenz Equation (Chaos Theory)](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)) <a name = "chaostheory"></a>
+## 3. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
+
+(refer to the other repo on DiscoverSUTD automation process!!)  
+
+**Summary about the project:**  
+During the first few months of the new students of my university, there will be a series of events be held to integrate them into University life. These events are planned by communities throughout the universities and they need to be approved by the university office by submitting an event approval form. Once approved, the details of the event (e.g. date, venue, sign-up form, hosting organisation, etc.) will updated to an online school calender that will be shared to all the new students.
+
+For some reason (either it was lost or never made), there isn't a automated workflow of this process. Hence, here is my attempt to automate the workflow, using Zapier as the "workflow automated tools" as the software medium of the workflow automation, [Tally](https://tally.so/dashboard) (form) as the event approval form, Google sheets as the database to store details of the submitted event approval form and as the software medium for the university's office staff to approve events, and Notion's calender as the online school calender that will be shared to all the new students.
+
+--Workflow:--  
+Tally form submission -> Updates Google sheets -> Updates Notion (which will auto update its Notion calender)
+
+*Source(s):*  
+- https://www.youtube.com/watch?v=-DtyCYwtpwY (XRay Automation) (Zapier tutorial)
+- https://www.youtube.com/watch?v=O8qdvSxDYNY (Notion) (Notion tutorial - Creating a database)
+- https://www.youtube.com/watch?v=gWjclPhdBgY&t=32s (Chris Tech Guide) (Notion tutorial - Create a Calender in Notion)
+
+
+*Programming Languages used:*   
+nil
+
+*Frameworks used:*  
+<img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50">
+
+<br>
+
+## [4. Sketching Graphs from the Lorenz Equation (Chaos Theory)](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)) <a name = "chaostheory"></a>
 <p align="center"> 
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/3.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20Question%20for%20Sketching%20Graphs%20of%20the%20Lorenz%20Equation%20(Chaos%20Theory)%20(1).png"  width="250" height="200">
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/3.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20Question%20for%20Sketching%20Graphs%20of%20the%20Lorenz%20Equation%20(Chaos%20Theory)%20(2).png"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20Question%20for%20Sketching%20Graphs%20of%20the%20Lorenz%20Equation%20(Chaos%20Theory)%20(1).png"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Image%20of%20Question%20for%20Sketching%20Graphs%20of%20the%20Lorenz%20Equation%20(Chaos%20Theory)%20(2).png"  width="250" height="200">
 </p>
 <p align="center"> 
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/3.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case1_Chaos_figure.png"  width="250" height="200">
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/3.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case2_Transient_Chaos_figure.png"  width="250" height="200">
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/3.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case3_No_Chaos_figure.png"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case1_Chaos_figure.png"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case2_Transient_Chaos_figure.png"  width="250" height="200">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/4.%20Sketching%20Chaos%2C%20Transient%20Chaos%20and%20No%20Chaos%20Graphs%20from%20the%20Lorenz%20Equation%20(Chaos%20Theory)/Case3_No_Chaos_figure.png"  width="250" height="200">
 </p>
 
 **Summary about the project:**  
@@ -99,7 +125,7 @@ nil
 
 <br>
 
-## [4. Arcade Minigames (Python) Project](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/5.%20Arcade%20Minigames%20(Python)%20Project) <a name = "arcade"></a>
+## [5. Arcade Minigames (Python) Project](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/5.%20Arcade%20Minigames%20(Python)%20Project) <a name = "arcade"></a>
 <p align="center"> 
   
 
@@ -130,25 +156,25 @@ nil
 
 <br>
 
-## [5. SUTD's Design Thinking and Innovation (DTI) module project](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project) <a name = "dti"></a>
+## [6. SUTD's Design Thinking and Innovation (DTI) module project](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project) <a name = "dti"></a>
 <p align="center"> 
   DTI Part 1 A3 posters (individual work) <br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%201.png"  width="450" height="300">
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%202.png"  width="450" height="300"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%201.png"  width="450" height="300">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%202.png"  width="450" height="300"><br>
   <br>
   DTI Part 2 A3 posters (group work)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%201.png"  width="500" height="300">
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%202.png"  width="500" height="300"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%201.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%202%20(Group%20Work)%20Site%20Analysis%20and%20Micro%20AEIOU%202.png"  width="500" height="300"><br>
   <br>
   DTI Part 3 5 A3 posters (individual work)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%201.png"  width="500" height="300">
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%202.png"  width="500" height="300">
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%203.png"  width="500" height="300">
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%204.png"  width="500" height="300">
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%205.png"  width="500" height="300"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%201.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%202.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%203.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%204.png"  width="500" height="300">
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%203%20(Individual%20Work)%20Mindmap%2C%20Functional%20Model%2C%20Storyboard%2C%20Contextual%20Drawings%20and%20Mood%20Board%205.png"  width="500" height="300"><br>
   <br>
   DTI Part 4 1 A1 poster, promotional video and functional prototype demonstration video (group work)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/5.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%204%20(Group%20Work)%20A1%20poster%201.png"  width="600" height="900"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%204%20(Group%20Work)%20A1%20poster%201.png"  width="600" height="900"><br>
   
 
 https://github.com/WindJammer6/17.-Mini-Projects-from-School/assets/98175995/547a21a8-a01b-4679-ba95-d29fb6063415
@@ -206,20 +232,20 @@ The project task is to use creative installations of light to improve social exp
 
 <br>
 
-## [6. Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/6.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "quantumchemistry"></a>
+## [7. Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "quantumchemistry"></a>
 <p align="center"> 
   (Symmetric Stretching vibration mode of a N2 molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
   (Bending vibration mode of a CO2 molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200"><br>
   (Bond angle of a C atom in the cis-2-butene molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200"><br>
   (Bond length between the C=C double bond in the cis-2-butene molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bonddist.png"  width="350" height="200"><br>  
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bonddist.png"  width="350" height="200"><br>  
   (Bond angle of a C atom in the trans-2-butene molecule)<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bondangle1.png"  width="350" height="200"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bondangle1.png"  width="350" height="200"><br>
   (Bond length between the C=C double bond in the trans-2-butene molecule)<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bonddist.png"  width="450" height="200"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bonddist.png"  width="450" height="200"><br>
 </p>
 
 
@@ -246,32 +272,6 @@ nil
 
 *Frameworks used:*  
 <img src="http://lammpstube.com/wp-content/uploads/2019/11/Gaussview-logo-1-3-1200x515.jpg" width="120" height="50"> <img src="https://tse4.mm.bing.net/th?id=OIP.Fm3aWuPD7s4m58-1Rx1d3wHaHR&pid=Api&P=0&h=180" width="50" height="50"> <img src="https://tehnoblog.org/wp-content/uploads/2021/03/WinSCP-Logo-1536x1536-1-1024x1024.png" width="50" height="50"> <img src="https://onion.io/wp-content/uploads/2017/11/Moba-Logo.jpg" width="50" height="50">
-
-<br>
-
-## 7. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
-
-(refer to the other repo on DiscoverSUTD automation process!!)  
-**Summary about the project:**  
-During the first few months of the new students of my university, there will be a series of events be held to integrate them into University life. These events are planned by communities throughout the universities and they need to be approved by the university office by submitting an event approval form. Once approved, the details of the event (e.g. date, venue, sign-up form, hosting organisation, etc.) will updated to an online school calender that will be shared to all the new students.
-
-For some reason (either it was lost or never made), there isn't a automated workflow of this process. Hence, here is my attempt to automate the workflow, using Zapier as the "workflow automated tools" as the software medium of the workflow automation, [Tally](https://tally.so/dashboard) (form) as the event approval form, Google sheets as the database to store details of the submitted event approval form and as the software medium for the university's office staff to approve events, and Notion's calender as the online school calender that will be shared to all the new students.
-
---Workflow:--  
-Tally form submission -> Updates Google sheets -> Updates Notion (which will auto update its Notion calender)
-
-*Source(s):*  
-- https://www.youtube.com/watch?v=-DtyCYwtpwY (XRay Automation) (Zapier tutorial)
-- https://www.youtube.com/watch?v=O8qdvSxDYNY (Notion) (Notion tutorial - Creating a database)
-- https://www.youtube.com/watch?v=gWjclPhdBgY&t=32s (Chris Tech Guide) (Notion tutorial - Create a Calender in Notion)
-
-
-*Programming Languages used:*   
-nil
-
-*Frameworks used:*  
-<img src="https://cdn.freebiesupply.com/logos/large/2x/zapier-logo-png-transparent.png" width="50" height="50"> <img src="https://tse4.mm.bing.net/th?id=OIP._p_mtE51iPbuFkDKjzL3oQHaHa&pid=Api&P=0&h=180" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) <img src="https://2.bp.blogspot.com/-hBfU2YnPnuc/WimJErMCwKI/AAAAAAAADrg/sWP4nS1jSB0toeYCa0KXSsfuFal1ZMgGQCLcBGAs/s1600/google-sheets-icon.png" width="50" height="50">
-
 
 <br>
 
