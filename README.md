@@ -312,3 +312,5 @@ side channel attacks
 won cert of merit
 
 used a software called SCA Toolkit, but it's an internal software that isn't shared public and not accessible for public. The data is all provided by NICE hack
+
+I no longer have access to it since they removed access to the participants after the event 
