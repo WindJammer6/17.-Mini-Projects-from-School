@@ -307,4 +307,8 @@ Make short documentation on mini projects from school on this Async2Secure NICE 
 
 Mention stuff like attention to detail and pattern recognition, and explain what all green numbers mean for bytes and what it mean if red, and about hardware, XOR, Shuftbox, SR thing etc.
 
+side channel attacks
+
 won cert of merit
+
+used a software called SCA Toolkit, but it's an internal software that isn't shared public and not accessible for public. The data is all provided by NICE hack
