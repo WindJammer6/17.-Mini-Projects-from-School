@@ -306,3 +306,5 @@ Async2Secure NICE hack
 Make short documentation on mini projects from school on this Async2Secure NICE hackathon with pics of the software and talk about the challenges
 
 Mention stuff like attention to detail and pattern recognition, and explain what all green numbers mean for bytes and what it mean if red, and about hardware, XOR, Shuftbox, SR thing etc.
+
+won cert of merit
