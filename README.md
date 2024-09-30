@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/613391a1-4f48-444e-9164-429a6c7df8a1)# 17.-Mini-Mini-Projects-from-School 
+# 17.-Mini-Mini-Projects-from-School 
 A compilation of mini school projects I've done at SUTD consisting of various programming languages and frameworks.
 
 (Larger school project I've done at SUTD are in their respective Github repositories.)
