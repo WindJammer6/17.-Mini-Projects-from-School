@@ -15,6 +15,7 @@ Here are some of my school projects:
 6. [SUTD's Design Thinking and Innovation (DTI) module project](#dti)
 7. [Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](#quantumchemistry)
 8. ROOT FAQ Forum using Figma and Nextjs
+9. [NiCE Hack Hackathon 2024 (Hardware Security)](#nicehack)
 
 <br>
 
@@ -303,20 +304,18 @@ nil
 
 <br>
 
-## [8. NiCE Hack Hackathon 2024 (Hardware Security)](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "nicehack"></a>
+## [9. NiCE Hack Hackathon 2024 (Hardware Security)](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)) <a name = "nicehack"></a>
 <p align="center"> 
-  (Symmetric Stretching vibration mode of a N2 molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
-  (Bending vibration mode of a CO2 molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200"><br>
-  (Bond angle of a C atom in the cis-2-butene molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200"><br>
-  (Bond length between the C=C double bond in the cis-2-butene molecule)<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bonddist.png"  width="350" height="200"><br>  
-  (Bond angle of a C atom in the trans-2-butene molecule)<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bondangle1.png"  width="350" height="200"><br>
-  (Bond length between the C=C double bond in the trans-2-butene molecule)<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bonddist.png"  width="450" height="200"><br>
+  (NiCE Hack Hackathon official logo)<br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/NiCE%20Hack%20Hackathon%20logo.png"  width="450" height="150"><br>
+  (Default Async2Secure SCA Toolkit software page to attack retrieved data)<br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2/Default%20page%20to%20attack%20retrieved%20data.jpg"  width="450" height="200"><br>
+  (Incorrect target guess shown with wrong key bytes in the Async2Secure SCA Toolkit software page)<br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2/Incorrect%20target%20guess%20shown%20with%20wrong%20key%20bytes.jpg"  width="350" height="200"><br>
+  (Correct target guess shown with all correct key bytes in the Async2Secure SCA Toolkit software page)<br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2/Correct%20target%20guess%20shown%20with%20all%20correct%20key%20bytes.png"  width="350" height="200"><br>  
+  (NiCE Hack Hackathon Certificate of Merit)<br>  
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/NiCE%20Hack%20Hackathon%20Certificate%20of%20Merit.jpg"  width="450" height="200"><br>
 </p>
 
 **Summary about the project:**  
