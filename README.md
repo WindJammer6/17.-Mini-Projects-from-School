@@ -318,7 +318,7 @@ nil
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/NiCE%20Hack%20Hackathon%20Certificate%20of%20Merit.jpg"  width="450" height="200"><br>
 </p>
 
-(Additional screenshots can be found in the '[Screenshots of the Async2Secure SCA Toolkit software for Challenge 1.2](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2)' folder
+(Additional screenshots can be found in the '[Screenshots of the Async2Secure SCA Toolkit software for Challenge 1.2](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2)' folder)
 
 **Summary about the project:**  
 Took part in a 2-day cybersecurity hackathon called 'NiCE Hack Hackathon 2024' at National Technological University (NTU) in Singapore in a team of 2 under the University category with Chua Xing Han ([here](https://github.com/c-xinghan) is his Github account), and achieved a Certificate of Merit (top 5 out of 45 teams).
