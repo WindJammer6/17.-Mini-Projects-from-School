@@ -159,7 +159,7 @@ nil
 
 ## [6. SUTD's Design Thinking and Innovation (DTI) module project](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project) <a name = "dti"></a>
 <p align="center"> 
-  DTI Part 1 A3 posters (individual work) <br>
+  DTI Part 1 A3 posters (individual work)<br>
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%201.png"  width="450" height="300">
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/6.%20SUTD's%20Design%20Thinking%20and%20Innovation%20(DTI)%20module%20project/Converted%20from%20pdf%20to%20png%20files%20for%20display%20on%20README/DTI%20Part%201%20(Individual%20Work)%20Site%20Analysis%20and%20Macro%20AEIOU%202.png"  width="450" height="300"><br>
   <br>
@@ -235,17 +235,17 @@ The project task is to use creative installations of light to improve social exp
 
 ## [7. Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "quantumchemistry"></a>
 <p align="center"> 
-  Symmetric Stretching vibration mode of a N2 molecule
+  Symmetric Stretching vibration mode of a N2 molecule<br>  
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
-  Bending vibration mode of a CO2 molecule
+  Bending vibration mode of a CO2 molecule<br>  
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200"><br>
-  Bond angle of a C atom in the cis-2-butene molecule
+  Bond angle of a C atom in the cis-2-butene molecule<br>  
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200"><br>
-  Bond length between the C=C double bond in the cis-2-butene molecule
+  Bond length between the C=C double bond in the cis-2-butene molecule<br>  
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bonddist.png"  width="350" height="200"><br>  
-  Bond angle of a C atom in the trans-2-butene molecule  
+  Bond angle of a C atom in the trans-2-butene molecule<br>    
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bondangle1.png"  width="350" height="200"><br>
-  Bond length between the C=C double bond in the trans-2-butene molecule  
+  Bond length between the C=C double bond in the trans-2-butene molecule<br>    
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bonddist.png"  width="450" height="200"><br>
 </p>
 
@@ -306,16 +306,16 @@ nil
 
 ## [9. NiCE Hack Hackathon 2024 (Hardware Security)](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)) <a name = "nicehack"></a>
 <p align="center"> 
-  NiCE Hack Hackathon official logo
+  NiCE Hack Hackathon official logo<br>
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/NiCE%20Hack%20Hackathon%20logo.png"  width="450" height="150"><br>
-  Default Async2Secure SCA Toolkit software page to attack retrieved data
+  Default Async2Secure SCA Toolkit software page to attack retrieved data<br>
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2/Default%20page%20to%20attack%20retrieved%20data.jpg"  width="450" height="200"><br>
-  Incorrect target (hardware target e.g. XOR gate, Substitution-Box (SB), ShiftRow (SR)) guess shown with wrong key bytes in the Async2Secure SCA Toolkit software page
+  Incorrect target (hardware target e.g. XOR gate, Substitution-Box (SB), ShiftRow (SR)) guess shown with wrong key bytes in the Async2Secure SCA Toolkit software page<br>  
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2/Incorrect%20target%20guess%20shown%20with%20wrong%20key%20bytes.jpg"  width="350" height="200"><br>
-  Correct target (hardware target e.g. XOR gate, Substitution-Box (SB), ShiftRow (SR)) guess shown with all correct key bytes in the Async2Secure SCA Toolkit software page
+  Correct target (hardware target e.g. XOR gate, Substitution-Box (SB), ShiftRow (SR)) guess shown with all correct key bytes in the Async2Secure SCA Toolkit software page<br>  
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2/Correct%20target%20guess%20shown%20with%20all%20correct%20key%20bytes.png"  width="350" height="200"><br>  
-  NiCE Hack Hackathon Certificate of Merit  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/NiCE%20Hack%20Hackathon%20Certificate%20of%20Merit.jpg"  width="450" height="200"><br>
+  NiCE Hack Hackathon Certificate of Merit<br>  
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/NiCE%20Hack%20Hackathon%20Certificate%20of%20Merit.jpg"  width="200" height="300"><br>
 </p>
 
 (Additional screenshots can be found in the '[Screenshots of the Async2Secure SCA Toolkit software for Challenge 1.2](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2)' folder)
@@ -330,7 +330,7 @@ Through this hackathon I learnt important skills such as attention to detail, pa
 *Source(s):*  
 - https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA24071921330630 (NiCE Hack Hackathon 2024 official website)
 - https://async2secure.com/assets/resources/Quick_Start_Guide_SCA_Platform.pdf (Async2Secure Side Channel Attack (SCA) Toolkit Quick-Start Guide)
-- https://async2secure.com/products/tools/side_channel_analysis_software (Async2Secure Side Channel Attack (SCA) Toolkit download) (download is not free to the public, it was only made free to participants for the duration of this NiCE Hack hackathon, I no longer have any access to it)
+- https://async2secure.com/products/tools/side_channel_analysis_software (Async2Secure Side Channel Attack (SCA) Toolkit software download) (download is not free to the public, it was only made free to participants for the duration of this NiCE Hack hackathon, I no longer have any access to it)
 
 *Programming Languages used:*   
 nil
