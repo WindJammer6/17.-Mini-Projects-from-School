@@ -1,4 +1,4 @@
-# 17.-Mini-Mini-Projects-from-School 
+# 17.-Mini-Projects-from-School 
 A compilation of mini school projects I've done at SUTD consisting of various programming languages and frameworks.
 
 (Larger school project I've done at SUTD are in their respective Github repositories.)
