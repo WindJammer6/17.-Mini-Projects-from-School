@@ -1,4 +1,4 @@
-# 17.-Mini-Mini-Projects-from-School 
+![image](https://github.com/user-attachments/assets/613391a1-4f48-444e-9164-429a6c7df8a1)# 17.-Mini-Mini-Projects-from-School 
 A compilation of mini school projects I've done at SUTD consisting of various programming languages and frameworks.
 
 (Larger school project I've done at SUTD are in their respective Github repositories.)
@@ -300,6 +300,42 @@ nil
 
 *Frameworks used:*  
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+<br>
+
+## [8. NiCE Hack Hackathon 2024 (Hardware Security)](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "nicehack"></a>
+<p align="center"> 
+  (Symmetric Stretching vibration mode of a N2 molecule)<br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
+  (Bending vibration mode of a CO2 molecule)<br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200"><br>
+  (Bond angle of a C atom in the cis-2-butene molecule)<br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200"><br>
+  (Bond length between the C=C double bond in the cis-2-butene molecule)<br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bonddist.png"  width="350" height="200"><br>  
+  (Bond angle of a C atom in the trans-2-butene molecule)<br>  
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bondangle1.png"  width="350" height="200"><br>
+  (Bond length between the C=C double bond in the trans-2-butene molecule)<br>  
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Trans2butene_bonddist.png"  width="450" height="200"><br>
+</p>
+
+**Summary about the project:**  
+Took part in a 2-day cybersecurity hackathon called 'NiCE Hack Hackathon 2024' at National Technological University (NTU) in Singapore in a team of 2 under the University category with Chua Xing Han ([here](https://github.com/c-xinghan) is his Github account), and achieved a Certificate of Merit (top 5 out of 45 teams).
+
+From the [NiCE Hack Hackathon 2024 official website](https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA24071921330630): '‘NiCE Hack’ is a premier event jointly hosted by National Integrated Centre for Evaluation (NiCE) and School of Electrical and Electronic Engineering (EEE) of Nanyang Technological University, Singapore. A hackathon aimed at raising awareness and interest about cybersecurity among pre-university and Institutions of Higher Learning (IHLs) students, it also hopes to foster innovation and collaboration between peers. This dynamic hackathon will introduce side-channel attacks to our participants, challenging them to tackle challenges related to this field.'
+
+Through this hackathon I learnt important skills such as attention to detail, pattern recognition (to recognise pattern in data in order select areas in the dataset to carry Side-Channel Attacks (SCA), basics of carrying out Side-Channel Attacks (SCA), some cybersecurity theory, some hardware security theory and their applications. Software used is [Async2Secure SCA Toolkit](https://async2secure.com/products/tools/side_channel_analysis_software).
+
+*Source(s):*  
+- https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA24071921330630 (NiCE Hack Hackathon 2024 official website)
+- https://async2secure.com/assets/resources/Quick_Start_Guide_SCA_Platform.pdf (Async2Secure Side Channel Attack (SCA) Toolkit Quick-Start Guide)
+- https://async2secure.com/products/tools/side_channel_analysis_software (Async2Secure Side Channel Attack (SCA) Toolkit download) (download is not free to the public, it was only made free to participants for the duration of this NiCE Hack hackathon, I no longer have any access to it)
+
+*Programming Languages used:*   
+nil
+
+*Frameworks used:*  
+<img src="https://async2secure.com/assets/home/logo_bg_transparent.png" width="120" height="50">
 
 
 Async2Secure NICE hack
