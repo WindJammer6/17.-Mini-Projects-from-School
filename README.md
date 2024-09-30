@@ -321,7 +321,7 @@ nil
 (Additional screenshots can be found in the '[Screenshots of the Async2Secure SCA Toolkit software for Challenge 1.2](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2)' folder)
 
 **Summary about the project:**  
-Took part in a 2-day cybersecurity hackathon called 'NiCE Hack Hackathon 2024' at National Technological University (NTU) in Singapore in a team of 2 under the University category with Chua Xing Han ([here](https://github.com/c-xinghan) is his Github account), and achieved a Certificate of Merit (top 5 out of 45 teams).
+Took part in a 2-day cybersecurity hackathon called 'NiCE Hack Hackathon 2024' at [National Technological University (NTU)](https://www.ntu.edu.sg/) in Singapore in a team of 2 under the University category with Chua Xing Han ([here](https://github.com/c-xinghan) is his Github account), and achieved a Certificate of Merit (top 5 out of 45 teams).
 
 From the [NiCE Hack Hackathon 2024 official website](https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA24071921330630): '‘NiCE Hack’ is a premier event jointly hosted by National Integrated Centre for Evaluation (NiCE) and School of Electrical and Electronic Engineering (EEE) of Nanyang Technological University, Singapore. A hackathon aimed at raising awareness and interest about cybersecurity among pre-university and Institutions of Higher Learning (IHLs) students, it also hopes to foster innovation and collaboration between peers. This dynamic hackathon will introduce side-channel attacks to our participants, challenging them to tackle challenges related to this field.'
 
