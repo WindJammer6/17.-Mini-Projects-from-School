@@ -77,7 +77,7 @@ https://github.com/user-attachments/assets/60852ecc-ffb3-43c0-a0cd-ada2f8fd9293
 
 </p>
 
-The video shows a demonstration of how the 'SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process' looks like. Done by me using [OBS Studio software](https://obsproject.com/) for screen recording and [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html) (by NCH Software) for video editing. THere is no audio in this demonstration video.
+The video shows a demonstration of how the 'SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process' looks like. Done by me using [OBS Studio software](https://obsproject.com/) for screen recording and [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html) (by NCH Software) for video editing. There is no audio in this demonstration video.
 
 I have a [seperate Github repository](https://github.com/WindJammer6/23.-DiscoverSUTD-Event-Proposal-Submission-Event-Approval-and-Event-Publishing-Automation-Process) that documents more in-depth of how this automation process is meant to be used by the future planning committees and Office of Student Activities (OSA) of Singapore University of Technology and Design (SUTD)'s DiscoverSUTD.
 
