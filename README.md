@@ -9,7 +9,7 @@ Larger school projects I've done at SUTD are in their respective Github reposito
 Here are some of my school projects:
 1. [Generative Design Project with Rhinoceros and Grasshopper](#generative)
 2. [Parametric Design Project with Rhinoceros and Grasshopper](#parametric)
-3. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
+3. [SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process](#discoversutd)
 4. [Sketching Chaos, Transient Chaos and No Chaos Graphs from the Lorenz Equation (Chaos Theory)](#chaostheory)
 5. [Arcade Minigames (Python) Project](#arcade)
 6. [SUTD's Design Thinking and Innovation (DTI) module project](#dti)
@@ -67,9 +67,19 @@ In the '2. Parametric Design Project with Rhinoceros and Grasshopper' folder, th
 
 <br>
 
-## 3. ROOT SUTDiscourse automating workflow Zapier linking the Tally (form), Google sheets and Notion
+## [3. SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/3.%20DiscoverSUTD%20Event%20Proposal%20Submission%2C%20Event%20Approval%2C%20and%20Event%20Publishing%20Automation%20Process) <a name = "discoversutd"></a>
 
-(refer to the other repo on DiscoverSUTD automation process!!)  
+<p align="center"> 
+
+
+https://github.com/user-attachments/assets/60852ecc-ffb3-43c0-a0cd-ada2f8fd9293
+
+
+</p>
+
+The video shows a demonstration of how the 'SUTD's DiscoverSUTD Event Proposal Submission, Event Approval, and Event Publishing Automation Process' looks like. Done by me using [OBS Studio software](https://obsproject.com/) for screen recording and [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html) (by NCH Software) for video editing. THere is no audio in this demonstration video.
+
+I have a [seperate Github repository](https://github.com/WindJammer6/23.-DiscoverSUTD-Event-Proposal-Submission-Event-Approval-and-Event-Publishing-Automation-Process) that documents more in-depth of how this automation process is meant to be used by the future planning committees and Office of Student Activities (OSA) of Singapore University of Technology and Design (SUTD)'s DiscoverSUTD.
 
 **Summary about the project:**  
 During the first few months of the new students of my university, there will be a series of events be held to integrate them into University life. These events are planned by communities throughout the universities and they need to be approved by the university office by submitting an event approval form. Once approved, the details of the event (e.g. date, venue, sign-up form, hosting organisation, etc.) will updated to an online school calender that will be shared to all the new students.
@@ -77,13 +87,13 @@ During the first few months of the new students of my university, there will be 
 For some reason (either it was lost or never made), there isn't a automated workflow of this process. Hence, here is my attempt to automate the workflow, using Zapier as the "workflow automated tools" as the software medium of the workflow automation, [Tally](https://tally.so/dashboard) (form) as the event approval form, Google sheets as the database to store details of the submitted event approval form and as the software medium for the university's office staff to approve events, and Notion's calender as the online school calender that will be shared to all the new students.
 
 --Workflow:--  
-Tally form submission -> Updates Google sheets -> Updates Notion (which will auto update its Notion calender)
+(Using Zapier's workflow automation framework)  
+Tally form submission -> Updates Google sheets -> Updates Notion's calender
 
 *Source(s):*  
 - https://www.youtube.com/watch?v=-DtyCYwtpwY (XRay Automation) (Zapier tutorial)
 - https://www.youtube.com/watch?v=O8qdvSxDYNY (Notion) (Notion tutorial - Creating a database)
 - https://www.youtube.com/watch?v=gWjclPhdBgY&t=32s (Chris Tech Guide) (Notion tutorial - Create a Calender in Notion)
-
 
 *Programming Languages used:*   
 nil
