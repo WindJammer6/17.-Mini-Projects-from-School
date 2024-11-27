@@ -26,7 +26,7 @@ Here are some of my school projects:
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/1.%20Generative%20Design%20Project%20with%20Rhinoceros%20and%20Grasshopper/GIF%20of%20Generative%20Design%20Assignment%20of%20the%203D%20model%20expanding%20upwards.gif"  width="250" height="200">
 </p>
 
-**Summary about the project:** 
+**Summary about the project:**  
 The project task is to create a generative design in Rhinoceros and Grasshopper using techniques developed aiming to produce something that cannot be recreated using conventional media. The theme of this assignment is “Beyond Human Aptitude”.
 
 In the '1. Generative Design Project with Rhinoceros and Grasshopper' folder, there are 3 files, consisting of the Grasshopper code, PowerPoint slides and PowerPoint slideshow. Used Photoshop to create the GIF animations in the PowerPoint slides to capture the physical changes in the 3D model as a parameter in the Grasshopper code is changed.
