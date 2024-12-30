@@ -16,6 +16,7 @@ Here are some of my school projects:
 7. [Computer Aided Design (CAD) of Molecules using GaussView and Avogadro, with WinSCP and MobaXterm for Quantum Chemistry module](#quantumchemistry)
 8. ROOT FAQ Forum using Figma and Nextjs
 9. [NiCE Hack Hackathon 2024 (Hardware Security)](#nicehack)
+10. [SUTD What The Hack (WTH) Hackathon 2024](#wth)
 
 <br>
 
@@ -339,6 +340,38 @@ The hardware security challenge of this cybersecurity hackathon was to carry out
 
 *Source(s):*  
 - https://wis.ntu.edu.sg/webexe88/owa/REGISTER_NTU.REGISTER?EVENT_ID=OA24071921330630 (NiCE Hack Hackathon 2024 official website)
+- https://async2secure.com/assets/resources/Quick_Start_Guide_SCA_Platform.pdf (Async2Secure Side Channel Attack (SCA) Toolkit Quick-Start Guide)
+- https://async2secure.com/products/tools/side_channel_analysis_software (Async2Secure Side Channel Attack (SCA) Toolkit software download) (download is not free to the public, it was only made free to participants for the duration of this NiCE Hack hackathon, I no longer have any access to it)
+
+*Programming Languages used:*   
+nil
+
+*Frameworks used:*  
+<img src="https://async2secure.com/assets/home/logo_bg_transparent.png" width="120" height="50">
+
+
+<br>
+
+## [10. SUTD What The Hack (WTH) Hackathon 2024)]() <a name = "wth"></a>
+<p align="center"> 
+  Functional Prototype of Third Eye<br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/NiCE%20Hack%20Hackathon%20logo.png"  width="450" height="150"><br>
+  CAD of sensor and alert (via vibration) pack <br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2/Default%20page%20to%20attack%20retrieved%20data.jpg"  width="450" height="200"><br>  
+</p>
+
+**Summary about the project:**  
+Took part in this 2-day hackathon at Singapore University of Technology and Design (SUTD) in a team of 5. 
+
+SUTD WTH Hackathon aims to bring together people of multiple disciplines and challenge them to solve imminent problems of the future via interdisciplinary collaborations.
+- Created a functional prototype of a background motion and sound, alterting device (via vibration) for the visually and hearing impaired, titled 'Third Eye'.
+
+From the [SUTD What The Hack (WTH) Hackathon 2024 official website](https://www.sutdwth.com/): '‘SUTD WTH Hackathon aims to bring together people of multiple disciplines and challenge them to solve imminent problems of the future via interdisciplinary collaborations.'
+
+The hardware security challenge of this cybersecurity hackathon was to carry out Side-Channel Attacks (SCA) to exploit (simulated) unintended information leaks from hardware implementations of cryptographic algorithms to retrieve sensitive data (e.g. encryption keys). Through this hackathon I learnt important skills such as attention to detail, pattern recognition (to recognise patterns in data in order select areas in the dataset to carry out Side-Channel Attacks (SCA)), basics of carrying out Side-Channel Attacks (SCA), some cybersecurity theory, some hardware security theory and their applications. Software used is [Async2Secure SCA Toolkit](https://async2secure.com/products/tools/side_channel_analysis_software).
+
+*Source(s):*  
+- https://www.sutdwth.com/ (SUTD What The Hack (WTH) Hackathon 2024 official website)
 - https://async2secure.com/assets/resources/Quick_Start_Guide_SCA_Platform.pdf (Async2Secure Side Channel Attack (SCA) Toolkit Quick-Start Guide)
 - https://async2secure.com/products/tools/side_channel_analysis_software (Async2Secure Side Channel Attack (SCA) Toolkit software download) (download is not free to the public, it was only made free to participants for the duration of this NiCE Hack hackathon, I no longer have any access to it)
 
