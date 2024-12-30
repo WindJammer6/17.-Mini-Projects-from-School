@@ -373,7 +373,7 @@ I contributed to the problem statement formulation, project ideation and constru
 - https://www.sutdwth.com/ (SUTD What The Hack (WTH) Hackathon 2024 official website)
 
 *Programming Languages used:*   
-nil
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 *Frameworks used:*  
-<img src="https://async2secure.com/assets/home/logo_bg_transparent.png" width="120" height="50">
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50">
