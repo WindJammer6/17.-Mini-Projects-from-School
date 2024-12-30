@@ -363,17 +363,14 @@ nil
 **Summary about the project:**  
 Took part in this 2-day hackathon at Singapore University of Technology and Design (SUTD) in a team of 5. 
 
-SUTD WTH Hackathon aims to bring together people of multiple disciplines and challenge them to solve imminent problems of the future via interdisciplinary collaborations.
-- Created a functional prototype of a background motion and sound, alterting device (via vibration) for the visually and hearing impaired, titled 'Third Eye'.
-
 From the [SUTD What The Hack (WTH) Hackathon 2024 official website](https://www.sutdwth.com/): '‘SUTD WTH Hackathon aims to bring together people of multiple disciplines and challenge them to solve imminent problems of the future via interdisciplinary collaborations.'
 
-The hardware security challenge of this cybersecurity hackathon was to carry out Side-Channel Attacks (SCA) to exploit (simulated) unintended information leaks from hardware implementations of cryptographic algorithms to retrieve sensitive data (e.g. encryption keys). Through this hackathon I learnt important skills such as attention to detail, pattern recognition (to recognise patterns in data in order select areas in the dataset to carry out Side-Channel Attacks (SCA)), basics of carrying out Side-Channel Attacks (SCA), some cybersecurity theory, some hardware security theory and their applications. Software used is [Async2Secure SCA Toolkit](https://async2secure.com/products/tools/side_channel_analysis_software).
+Our hack idea for this hackathon was to create a functional prototype of a background motion and sound, alterting device (via vibration) for the visually and hearing impaired, titled 'Third Eye'. It can be thought as an attempt to mimic the 'spidey sense'.
+
+I contributed to the problem statement formulation, project ideation and construction of the prototype model using Arduino Uno.
 
 *Source(s):*  
 - https://www.sutdwth.com/ (SUTD What The Hack (WTH) Hackathon 2024 official website)
-- https://async2secure.com/assets/resources/Quick_Start_Guide_SCA_Platform.pdf (Async2Secure Side Channel Attack (SCA) Toolkit Quick-Start Guide)
-- https://async2secure.com/products/tools/side_channel_analysis_software (Async2Secure Side Channel Attack (SCA) Toolkit software download) (download is not free to the public, it was only made free to participants for the duration of this NiCE Hack hackathon, I no longer have any access to it)
 
 *Programming Languages used:*   
 nil
