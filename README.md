@@ -365,9 +365,9 @@ add devpost link here (any other website links to out??) and the CAD stl files a
 **Summary about the project:**  
 Took part in this 2-day hackathon at Singapore University of Technology and Design (SUTD) in a team of 5. 
 
-From the [SUTD What The Hack (WTH) Hackathon 2024 official website](https://www.sutdwth.com/): '‘SUTD WTH Hackathon aims to bring together people of multiple disciplines and challenge them to solve imminent problems of the future via interdisciplinary collaborations.'
+From the [SUTD What The Hack (WTH) Hackathon 2024 official website](https://www.sutdwth.com/): 'SUTD WTH Hackathon aims to bring together people of multiple disciplines and challenge them to solve imminent problems of the future via interdisciplinary collaborations.'
 
-Our hack idea for this hackathon was to create a functional prototype of a background motion and sound, alterting device (via vibration) for the visually and hearing impaired, titled 'Third Eye'. It can be thought as an attempt to mimic the 'spidey sense'.
+Our hack idea for this hackathon was to create a functional prototype of a background motion and sound, alterting device (via vibration) using an IR sensor (Arduino module) and microphone (Arduino module), for the visually and hearing impaired, titled 'Third Eye'. It can be thought as an attempt to mimic the 'spidey sense'.
 
 I contributed to the problem statement formulation, project ideation and construction of the prototype model using Arduino Uno.
 
