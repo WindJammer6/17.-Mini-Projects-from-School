@@ -361,6 +361,7 @@ nil
 </p>
 
 add devpost link here (any other website links to out??) and the CAD stl files and (rememeber add from pdf the SUTD Hack gave on how to set up the Arduino IDE, set the ports and board used settings in the IDE, what to download in the IDE, etc.) can add videos here too? preferably if it shows the code of the arduino ide add presentation slides oso
+workshop 2 slides here: https://www.canva.com/design/DAGWtxlzMb8/mURAanMGt1V9yvydi4Q3Yg/view?utm_content=DAGWtxlzMb8&utm_campaign=designshare&utm_medium=link&utm_source=editor#4 Unfortunately cannot find workshop 1 slides sad they removed it and didnt share it for some reason
 
 **Summary about the project:**  
 Took part in this 2-day hackathon at Singapore University of Technology and Design (SUTD) in a team of 5. 
