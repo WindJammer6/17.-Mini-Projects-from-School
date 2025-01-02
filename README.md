@@ -360,6 +360,8 @@ nil
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/Screenshots%20of%20the%20Async2Secure%20SCA%20Toolkit%20software%20for%20Challenge%201.2/Default%20page%20to%20attack%20retrieved%20data.jpg"  width="450" height="200"><br>  
 </p>
 
+https://devpost.com/software/third-eye-m1ha3p
+
 add devpost link here (any other website links to out??) and the CAD stl files and (rememeber add from pdf the SUTD Hack gave on how to set up the Arduino IDE, set the ports and board used settings in the IDE, what to download in the IDE, etc.) can add videos here too? preferably if it shows the code of the arduino ide add presentation slides oso
 workshop 2 slides here: https://www.canva.com/design/DAGWtxlzMb8/mURAanMGt1V9yvydi4Q3Yg/view?utm_content=DAGWtxlzMb8&utm_campaign=designshare&utm_medium=link&utm_source=editor#4 Unfortunately cannot find workshop 1 slides sad they removed it and didnt share it for some reason
 
