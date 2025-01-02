@@ -373,12 +373,6 @@ https://github.com/user-attachments/assets/948b01ce-a53e-4759-8e78-b5889f1240fd
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/3D%20model%20of%20Woman%20with%20Third%20Eye.png"  width="450" height="250"><br>  
 </p>
 
-
-https://devpost.com/software/third-eye-m1ha3p
-
-add devpost link here (any other website links to out??) and the CAD stl files and (rememeber add from pdf the SUTD Hack gave on how to set up the Arduino IDE, set the ports and board used settings in the IDE, what to download in the IDE, etc.) can add videos here too? preferably if it shows the code of the arduino ide add presentation slides oso
-workshop 2 slides here: https://www.canva.com/design/DAGWtxlzMb8/mURAanMGt1V9yvydi4Q3Yg/view?utm_content=DAGWtxlzMb8&utm_campaign=designshare&utm_medium=link&utm_source=editor#4 Unfortunately cannot find workshop 1 slides sad they removed it and didnt share it for some reason
-
 **Summary about the project:**  
 Took part in this 2-day hackathon at Singapore University of Technology and Design (SUTD) in a team of 5. 
 
@@ -388,6 +382,8 @@ Our hack idea for this hackathon was to create a functional prototype of a backg
 
 I contributed to the problem statement formulation, project ideation and construction of the prototype model using Arduino Uno.
 
+Devpost link to our project 'Third Eye' in the SUTD What The Hack (WTH) Hackathon 2024: https://devpost.com/software/third-eye-m1ha3p
+
 *Source(s):*  
 - https://www.sutdwth.com/ (SUTD What The Hack (WTH) Hackathon 2024 official website)
 
@@ -395,4 +391,4 @@ I contributed to the problem statement formulation, project ideation and constru
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 *Frameworks used:*  
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> [![My Skills](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva)
