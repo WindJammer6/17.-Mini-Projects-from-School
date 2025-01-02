@@ -357,7 +357,7 @@ nil
   SUTD What The Hack (WTH) Hackathon 2024 official logo<br>
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/SUTD%20What%20The%20Hack%20Hackathon%20logo.jpg"  width="300" height="350"><br>
   Functional Prototype of Third Eye<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/Functional%20Prototype%20of%20Third%20Eye.jpg"  width="400" height="250"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/Functional%20Prototype%20of%20Third%20Eye.jpg"  width="500" height="250"><br>
   Demonstration of Functional Prototype of Third Eye<br>
 <p align="center"> 
   
