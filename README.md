@@ -389,7 +389,7 @@ I contributed to the problem statement formulation, project ideation and constru
 - https://what-the-hack-2024.devpost.com/ (SUTD What The Hack (WTH) Hackathon 2024 Devpost page)
 
 *Programming Languages used:*   
-nil
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 *Frameworks used:*  
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva)
