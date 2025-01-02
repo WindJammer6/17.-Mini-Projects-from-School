@@ -352,12 +352,12 @@ nil
 
 <br>
 
-## [10. SUTD What The Hack (WTH) Hackathon 2024]() <a name = "wth"></a>
+## [10. SUTD What The Hack (WTH) Hackathon 2024](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024) <a name = "wth"></a>
 <p align="center"> 
   SUTD What The Hack (WTH) Hackathon 2024 official logo<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/NiCE%20Hack%20Hackathon%20logo.png"  width="450" height="150"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/SUTD%20What%20The%20Hack%20Hackathon%20logo.jpg"  width="200" height="450"><br>
   Functional Prototype of Third Eye<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/Functional%20Prototype%20of%20Third%20Eye.jpg"  width="450" height="150"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/Functional%20Prototype%20of%20Third%20Eye.jpg"  width="450" height="300"><br>
   Demonstration of Functional Prototype of Third Eye<br>
 <p align="center"> 
   
@@ -367,7 +367,9 @@ https://github.com/user-attachments/assets/948b01ce-a53e-4759-8e78-b5889f1240fd
 
 </p>
   3D model of Third Eye<br>
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/Exploded%20View%20of%20Third%20Eye%20(with%20colour).jpg"  width="450" height="200"><br>  
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/Exploded%20View%20of%20Third%20Eye%20(with%20colour).jpg"  width="450" height="300"><br>  
+  3D model of Third Eye Usage<br>
+  <img src="  https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/910.%20SUTD%20What%20The%20Hack%20(WTH)%20Hackathon%202024/3D%20model%20of%20Woman%20with%20Third%20Eye.png"  width="450" height="300"><br>  
 </p>
 
 
