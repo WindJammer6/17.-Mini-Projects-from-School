@@ -352,7 +352,7 @@ nil
 
 <br>
 
-## [10. SUTD What The Hack (WTH) Hackathon 2024)]() <a name = "wth"></a>
+## [10. SUTD What The Hack (WTH) Hackathon 2024]() <a name = "wth"></a>
 <p align="center"> 
   Functional Prototype of Third Eye<br>
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/9.%20NiCE%20Hack%20Hackathon%202024%20(Hardware%20Security)/NiCE%20Hack%20Hackathon%20logo.png"  width="450" height="150"><br>
