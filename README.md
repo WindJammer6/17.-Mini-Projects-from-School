@@ -400,11 +400,11 @@ I contributed to the problem statement formulation, project ideation and constru
 ## [911. Compilation of Interesting Assignments from Artificial Intellgience (AI) Research module](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module) <a name = "airesearch"></a>
 <p align="center"> 
   Assignment on Metaheuristic Optimisation<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module/Image%20of%20SHARP%20Homework%20on%20Metaheuristic%20Optimization.png"  width="250" height="300"><br>
   Assignment on Large Language Models (LLMs)<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module/Image%20of%20SHARP%20Homework%20on%20Large%20Language%20Models.png"  width="250" height="300"><br>
   Assignment on AI Safety and Bias Testing<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module/Image%20of%20SHARP%20Homework%20on%20AI%20Safety%20and%20Bias%20Testing.png"  width="250" height="300"><br>
 </p>
 
 
