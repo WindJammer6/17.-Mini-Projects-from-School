@@ -378,9 +378,9 @@ Took part in this 2-day hackathon at Singapore University of Technology and Desi
 
 From the [SUTD What The Hack (WTH) Hackathon 2024 official website](https://www.sutdwth.com/): 'SUTD WTH Hackathon aims to bring together people of multiple disciplines and challenge them to solve imminent problems of the future via interdisciplinary collaborations.'
 
-Our hack idea for this hackathon was to create a functional prototype of a background motion and sound, alterting device (via vibration) using an IR sensor (Arduino module) and microphone (Arduino module), for the visually and hearing impaired, titled 'Third Eye'. It can be thought as an attempt to mimic the 'spidey sense'.
+Our hack idea for this hackathon was to create a functional prototype of a background motion and sound, alterting device (via vibration) using an IR sensor (Arduino module) and microphone (Arduino module), for the visually and hearing impaired, titled 'Third Eye'. It can be thought as an attempt to mimic the 'spidey sense'. 3D printing of 'Third Eye' done using the [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/) software.
 
-I contributed to the problem statement formulation, project ideation and construction of the prototype model using Arduino Uno.
+I contributed to the problem statement formulation, project ideation and construction of the prototype model using Arduino Uno. 
 
 - Devpost link to our project 'Third Eye' in the SUTD What The Hack (WTH) Hackathon 2024: https://devpost.com/software/third-eye-m1ha3p
 
