@@ -17,6 +17,7 @@ Here are some of my school projects:
 8. ROOT FAQ Forum using Figma and Nextjs
 9. [NiCE Hack Hackathon 2024 (Hardware Security)](#nicehack)
 10. [SUTD What The Hack (WTH) Hackathon 2024](#wth)
+11. [Compilation of Interesting Assignments from Artificial Intellgience (AI) Research module](#airesearch)
 
 <br>
 
@@ -393,3 +394,28 @@ I contributed to the problem statement formulation, project ideation and constru
 
 *Frameworks used:*  
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) <img src="https://tse4.mm.bing.net/th?id=OIP.TZIt0IpYp3NmLBQOmCwwcAAAAA&pid=Api&P=0&h=180" width="50" height="50"> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva)
+
+<br>
+
+## [911. Compilation of Interesting Assignments from Artificial Intellgience (AI) Research module](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "airesearch"></a>
+<p align="center"> 
+  Assignment on Metaheuristic Optimisation<br>  
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
+  Assignment on Large Language Models (LLMs)<br>  
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/CO2_Bending_Vibration_Mode.png"  width="450" height="200"><br>
+  Assignment on AI Safety and Bias Testing<br>  
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20cis-2-butene%20and%20trans-2-butene%20molecule/Cis-2-butene%20and%20Trans-2-butene%20Screenshots/Cis2butene_bondangle1.png"  width="350" height="200"><br>
+</p>
+
+
+**Summary about the project:**  
+A compilation of interesting assignments (not quite a project) regarding various AI frontiers as part of an AI research module. Answers are not the best, but are my attempts to the assignment questions.
+
+*Source(s):*  
+nil
+
+*Programming Languages used:*   
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+*Frameworks used:*  
+nil
