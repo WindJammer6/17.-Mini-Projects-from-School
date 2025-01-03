@@ -397,7 +397,7 @@ I contributed to the problem statement formulation, project ideation and constru
 
 <br>
 
-## [911. Compilation of Interesting Assignments from Artificial Intellgience (AI) Research module](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module) <a name = "airesearch"></a>
+## [911. Compilation of Interesting Assignments from Artificial Intellgience (AI) Research module](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module) <a name = "airesearch"></a>
 <p align="center"> 
   Assignment on Metaheuristic Optimisation<br>  
   <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/7.%20Computer%20Aided%20Design%20(CAD)%20of%20Molecules%20using%20GaussView%20and%20Avogadro%2C%20with%20WinSCP%20and%20MobaXterm%20for%20Quantum%20Chemistry%20module/CAD%20of%20N2%20and%20CO2%20molecule/N2%20and%20CO2%20Vibration%20Mode%20Screenshots/N2_Symmetric_Stretching_Vibration_Mode.png"  width="450" height="200"><br>
