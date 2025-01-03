@@ -400,11 +400,11 @@ I contributed to the problem statement formulation, project ideation and constru
 ## [911. Compilation of Interesting Assignments from Artificial Intellgience (AI) Research module](https://github.com/WindJammer6/17.-Mini-Projects-from-School/tree/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module) <a name = "airesearch"></a>
 <p align="center"> 
   Assignment on Metaheuristic Optimisation<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module/Image%20of%20SHARP%20Homework%20on%20Metaheuristic%20Optimization.png"  width="250" height="300"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module/Image%20of%20SHARP%20Homework%20on%20Metaheuristic%20Optimization.png"  width="250" height="325"><br>
   Assignment on Large Language Models (LLMs)<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module/Image%20of%20SHARP%20Homework%20on%20Large%20Language%20Models.png"  width="250" height="300"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module/Image%20of%20SHARP%20Homework%20on%20Large%20Language%20Models.png"  width="250" height="325"><br>
   Assignment on AI Safety and Bias Testing<br>  
-  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module/Image%20of%20SHARP%20Homework%20on%20AI%20Safety%20and%20Bias%20Testing.png"  width="250" height="300"><br>
+  <img src="https://github.com/WindJammer6/17.-Mini-Projects-from-School/blob/main/911.%20Compilation%20of%20Interesting%20Assignments%20from%20Artificial%20Intellgience%20(AI)%20Research%20module/Image%20of%20SHARP%20Homework%20on%20AI%20Safety%20and%20Bias%20Testing.png"  width="250" height="325"><br>
 </p>
 
 
