@@ -383,7 +383,7 @@ Our hack idea for this hackathon was to create a functional prototype of a backg
 
 I contributed to the problem statement formulation, project ideation and construction of the prototype model using Arduino Uno. 
 
-- Devpost link to our project 'Third Eye' in the SUTD What The Hack (WTH) Hackathon 2024: https://devpost.com/software/third-eye-m1ha3p
+- Devpost link to our project 'Third Eye' in the [SUTD What The Hack (WTH) Hackathon 2024](https://what-the-hack-2024.devpost.com/): https://devpost.com/software/third-eye-m1ha3p
 
 *Source(s):*  
 - https://www.sutdwth.com/ (SUTD What The Hack (WTH) Hackathon 2024 official website)
