@@ -156,7 +156,7 @@ The project task is to create a Python programming project assignment in a group
 + Light Cycle (with GUI, using the 'turtle' Python library)
 + Space Invaders (with GUI, using the 'tkinter' Python library)
 
-The video shows a demonstration of how the 'Arcade Minigames' Python project looks like. Done by me using [OBS Studio software](https://obsproject.com/) for screen recording and [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html) (by NCH Software) for video editing. Music is '[Always with me](https://www.youtube.com/watch?v=ESJ7TQvFFrA)' by Studio Ghibli.
+The video shows a demonstration of how the 'Arcade Minigames' Python project looks like. Done by me using [OBS Studio software](https://obsproject.com/) for screen recording and [VideoPad Video Editor](https://www.nchsoftware.com/videopad/index.html) (by NCH Software) for video editing. Music is '[Always with me](https://www.youtube.com/watch?v=ESJ7TQvFFrA)' by [Studio Ghibli](https://en.wikipedia.org/wiki/Studio_Ghibli).
 
 *Source(s):*  
 nil
